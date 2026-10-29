@@ -1,0 +1,28 @@
+{
+ "photodegradation_pct": {
+  "baseline_K3": 13.9941193382,
+  "carbon_excess": 4.994496288200001,
+  "cu_excess": 4.943448057399998,
+  "combined_excess": 8.5665038448,
+  "additive_expectation": 9.937944345599998,
+  "interaction_term": -1.3714405007999986,
+  "se": 0.6310315904872342,
+  "t": -2.1733309734003607,
+  "df": 4.542543551772802,
+  "p_value": 0.08729728632799683,
+  "verdict": "not statistically distinguishable from a purely additive (non-interacting) combination"
+ },
+ "k_regression_min-1": {
+  "baseline_K3": 0.002572132,
+  "carbon_excess": 0.0008650234000000001,
+  "cu_excess": 0.0008501342999999999,
+  "combined_excess": 0.0017052983000000002,
+  "additive_expectation": 0.0017151577,
+  "interaction_term": -9.859399999999786e-06,
+  "se": 0.00011512406848913045,
+  "t": -0.08564151814119278,
+  "df": 6.753552774997661,
+  "p_value": 0.9342347861044649,
+  "verdict": "not statistically distinguishable from a purely additive (non-interacting) combination"
+ }
+}

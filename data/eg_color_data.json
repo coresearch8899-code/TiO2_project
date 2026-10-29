@@ -1,0 +1,193 @@
+{
+ "eg": [
+  {
+   "run": 1,
+   "lambda_onset_nm": 392,
+   "Eg_DRS_eV": 3.17,
+   "Eg_indirect_eV": 3.22
+  },
+  {
+   "run": 2,
+   "lambda_onset_nm": 392,
+   "Eg_DRS_eV": 3.17,
+   "Eg_indirect_eV": 3.23
+  },
+  {
+   "run": 3,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.23
+  },
+  {
+   "run": 4,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.21
+  },
+  {
+   "run": 5,
+   "lambda_onset_nm": 393,
+   "Eg_DRS_eV": 3.16,
+   "Eg_indirect_eV": 3.23
+  },
+  {
+   "run": 6,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.21
+  },
+  {
+   "run": 7,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.21
+  },
+  {
+   "run": 8,
+   "lambda_onset_nm": 393,
+   "Eg_DRS_eV": 3.16,
+   "Eg_indirect_eV": 3.22
+  },
+  {
+   "run": 9,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.22
+  },
+  {
+   "run": 10,
+   "lambda_onset_nm": 392,
+   "Eg_DRS_eV": 3.17,
+   "Eg_indirect_eV": 3.21
+  },
+  {
+   "run": 11,
+   "lambda_onset_nm": 390,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.23
+  },
+  {
+   "run": 12,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.23
+  },
+  {
+   "run": 13,
+   "lambda_onset_nm": 391,
+   "Eg_DRS_eV": 3.18,
+   "Eg_indirect_eV": 3.22
+  },
+  {
+   "run": 14,
+   "lambda_onset_nm": 392,
+   "Eg_DRS_eV": 3.17,
+   "Eg_indirect_eV": 3.22
+  },
+  {
+   "run": 15,
+   "lambda_onset_nm": 392,
+   "Eg_DRS_eV": 3.17,
+   "Eg_indirect_eV": 3.22
+  }
+ ],
+ "color": [
+  {
+   "run": 1,
+   "L": 95.4441,
+   "a": -1.775,
+   "b": 5.07
+  },
+  {
+   "run": 2,
+   "L": 95.5597,
+   "a": -1.7077,
+   "b": 5.0073
+  },
+  {
+   "run": 3,
+   "L": 95.4179,
+   "a": -2.0855,
+   "b": 4.9762
+  },
+  {
+   "run": 4,
+   "L": 95.441,
+   "a": -1.906,
+   "b": 4.3872
+  },
+  {
+   "run": 5,
+   "L": 94.7311,
+   "a": -1.9011,
+   "b": 5.7563
+  },
+  {
+   "run": 6,
+   "L": 94.8458,
+   "a": -1.5652,
+   "b": 4.8152
+  },
+  {
+   "run": 7,
+   "L": 95.2936,
+   "a": -1.8236,
+   "b": 4.8505
+  },
+  {
+   "run": 8,
+   "L": 95.776,
+   "a": -1.7211,
+   "b": 4.4663
+  },
+  {
+   "run": 9,
+   "L": 95.1614,
+   "a": -1.3398,
+   "b": 4.6459
+  },
+  {
+   "run": 10,
+   "L": 94.341,
+   "a": -1.6346,
+   "b": 4.6322
+  },
+  {
+   "run": 11,
+   "L": 95.928,
+   "a": -1.4966,
+   "b": 5.2558
+  },
+  {
+   "run": 12,
+   "L": 95.8429,
+   "a": -1.7807,
+   "b": 4.3405
+  },
+  {
+   "run": 13,
+   "L": 96.138,
+   "a": -1.9544,
+   "b": 3.8637
+  },
+  {
+   "run": 14,
+   "L": 95.8839,
+   "a": -1.9043,
+   "b": 4.2241
+  },
+  {
+   "run": 15,
+   "L": 95.8153,
+   "a": -1.9871,
+   "b": 4.6895
+  },
+  {
+   "run": null,
+   "label": "CuSO2",
+   "L": 65.1017,
+   "a": -16.9113,
+   "b": -33.853
+  }
+ ]
+}

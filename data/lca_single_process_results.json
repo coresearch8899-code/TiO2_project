@@ -1,0 +1,341 @@
+{
+  "functional_unit": "one laboratory batch initiated with 1.000 g of commercial anatase TiO2 (LED-assisted photothermal treatment with glucose and CuSO4 precursors; production stage only; electricity = rated-power upper bound)",
+  "foreground_inventory": {
+    "TiO2_g": 1.0,
+    "Glucose_g": 1.57,
+    "CuSO4_5H2O_g": 0.072,
+    "DI_water_kg": 2.0,
+    "Electricity_kWh": 10.616333333333333,
+    "Wastewater_m3": 0.002,
+    "energy_breakdown_kWh": {
+      "Magnetic stirrer (suspension preparation, 300 W, 30 min)": 0.15,
+      "Ultrasonication (homogenization, 600 W, 30 min)": 0.3,
+      "Full-spectrum LED (photothermal synthesis, 100 W, 140 min)": 0.233,
+      "Centrifugation (catalyst separation, 2000 W, 10 min)": 0.3333333333333333,
+      "Drying oven (70 degC, 800 W, 12 h)": 9.6
+    },
+    "energy_shares_pct": {
+      "Magnetic stirrer (suspension preparation, 300 W, 30 min)": 1.412917203051901,
+      "Ultrasonication (homogenization, 600 W, 30 min)": 2.825834406103802,
+      "Full-spectrum LED (photothermal synthesis, 100 W, 140 min)": 2.1947313887406197,
+      "Centrifugation (catalyst separation, 2000 W, 10 min)": 3.1398160067820022,
+      "Drying oven (70 degC, 800 W, 12 h)": 90.42670099532167
+    }
+  },
+  "transport_and_packaging": {
+    "raw_material_transport_tkm": 0.001,
+    "product_transport_tkm": 9.999999999999999e-05,
+    "packaging_kg": 0.005,
+    "gwp_factor_transport_kgCO2e_per_tkm": 0.12,
+    "gwp_factor_packaging_kgCO2e_per_kg": 2.5,
+    "gwp_contribution_kgCO2e": 0.012632,
+    "gwp_contribution_pct_of_total": 0.14887292202269148,
+    "note": "approximate/proxy literature-average factors; GWP only; not extended to other categories (see script docstring)"
+  },
+  "midpoint_codes": [
+    "GWP",
+    "SOD",
+    "IR",
+    "OF-HH",
+    "FPMF",
+    "OF-TE",
+    "TA",
+    "FE",
+    "ME",
+    "TET",
+    "FET",
+    "MET",
+    "HCT",
+    "HNT",
+    "LU",
+    "MRS",
+    "FRS",
+    "WC"
+  ],
+  "midpoint_units": {
+    "GWP": "kg CO2 eq",
+    "SOD": "kg CFC-11 eq",
+    "IR": "kBq Co-60 eq",
+    "OF-HH": "kg NOx eq",
+    "FPMF": "kg PM2.5 eq",
+    "OF-TE": "kg NOx eq",
+    "TA": "kg SO2 eq",
+    "FE": "kg P eq",
+    "ME": "kg N eq",
+    "TET": "kg 1,4-DCB",
+    "FET": "kg 1,4-DCB",
+    "MET": "kg 1,4-DCB",
+    "HCT": "kg 1,4-DCB",
+    "HNT": "kg 1,4-DCB",
+    "LU": "m2 x yr crop eq",
+    "MRS": "kg Cu eq",
+    "FRS": "kg oil eq",
+    "WC": "m3"
+  },
+  "midpoint_names": {
+    "GWP": "Global warming potential",
+    "SOD": "Stratospheric ozone depletion",
+    "IR": "Ionizing radiation",
+    "OF-HH": "Ozone formation, human health",
+    "FPMF": "Fine particulate matter formation",
+    "OF-TE": "Ozone formation, terrestrial ecosystems",
+    "TA": "Terrestrial acidification",
+    "FE": "Freshwater eutrophication",
+    "ME": "Marine eutrophication",
+    "TET": "Terrestrial ecotoxicity",
+    "FET": "Freshwater ecotoxicity",
+    "MET": "Marine ecotoxicity",
+    "HCT": "Human carcinogenic toxicity",
+    "HNT": "Human non-carcinogenic toxicity",
+    "LU": "Land use",
+    "MRS": "Mineral resource scarcity",
+    "FRS": "Fossil resource scarcity",
+    "WC": "Water consumption"
+  },
+  "midpoint_total_per_FU": {
+    "GWP": 8.485089046666666,
+    "SOD": 2.27838774e-06,
+    "IR": 0.026448319666666664,
+    "OF-HH": 0.013513464733333336,
+    "FPMF": 0.0077979685,
+    "OF-TE": 0.014151378133333335,
+    "TA": 0.020241439433333334,
+    "FE": 0.00543398857,
+    "ME": 0.00035141052933333327,
+    "TET": 22.420646,
+    "FET": 0.52421362,
+    "MET": 0.6712574099999999,
+    "HCT": 0.4073869106666667,
+    "HNT": 9.067751966666668,
+    "LU": 0.05303019,
+    "MRS": 0.015777667333333332,
+    "FRS": 2.45499055,
+    "WC": 0.03416747853333334
+  },
+  "midpoint_by_flow": {
+    "TiO2": {
+      "GWP": 0.00684,
+      "SOD": 1.98e-09,
+      "IR": 0.000215,
+      "OF-HH": 1.7899999999999998e-05,
+      "FPMF": 1.59e-05,
+      "OF-TE": 1.84e-05,
+      "TA": 4.1e-05,
+      "FE": 4.270000000000001e-06,
+      "ME": 2.66e-07,
+      "TET": 0.037,
+      "FET": 0.000482,
+      "MET": 0.00064,
+      "HCT": 0.00033900000000000005,
+      "HNT": 0.010400000000000001,
+      "LU": 0.000321,
+      "MRS": 0.0009699999999999999,
+      "FRS": 0.0016,
+      "WC": 6.59e-05
+    },
+    "Glucose": {
+      "GWP": 0.0027161,
+      "SOD": 1.2324499999999999e-08,
+      "IR": 0.000129839,
+      "OF-HH": 7.8814e-06,
+      "FPMF": 4.7885e-06,
+      "OF-TE": 8.164e-06,
+      "TA": 1.3706099999999999e-05,
+      "FE": 1.03777e-06,
+      "ME": 1.53232e-06,
+      "TET": 0.016642,
+      "FET": 0.00016642,
+      "MET": 0.00020881,
+      "HCT": 0.00017584,
+      "HNT": 0.0031243,
+      "LU": 0.00075046,
+      "MRS": 1.4444e-05,
+      "FRS": 0.0006327100000000001,
+      "WC": 0.00019154
+    },
+    "CuSO4_5H2O": {
+      "GWP": 0.00014328,
+      "SOD": 2.8224e-10,
+      "IR": 8.064000000000001e-06,
+      "OF-HH": 1.296e-06,
+      "FPMF": 2.772e-06,
+      "OF-TE": 1.3248e-06,
+      "TA": 7.776e-06,
+      "FE": 1.2168e-06,
+      "ME": 2.7575999999999998e-08,
+      "TET": 0.055944,
+      "FET": 0.0010224,
+      "MET": 0.0012887999999999999,
+      "HCT": 5.9904e-05,
+      "HNT": 0.012528000000000001,
+      "LU": 9.36e-06,
+      "MRS": 2.052e-05,
+      "FRS": 4.104e-05,
+      "WC": 2.9952e-06
+    },
+    "DI_water": {
+      "GWP": 0.000968,
+      "SOD": 8.76e-10,
+      "IR": 6.42e-05,
+      "OF-HH": 2.28e-06,
+      "FPMF": 2.5e-06,
+      "OF-TE": 2.36e-06,
+      "TA": 6.26e-06,
+      "FE": 4.34e-07,
+      "ME": 3.38e-08,
+      "TET": 0.01434,
+      "FET": 0.000141,
+      "MET": 0.0001846,
+      "HCT": 0.0001082,
+      "HNT": 0.0028,
+      "LU": 2.4e-05,
+      "MRS": 1.162e-05,
+      "FRS": 0.000228,
+      "WC": 0.00193
+    },
+    "Electricity_grid_TH": {
+      "GWP": 8.461217666666666,
+      "SOD": 2.261279e-06,
+      "IR": 0.026010016666666667,
+      "OF-HH": 0.013482743333333335,
+      "FPMF": 0.007771156,
+      "OF-TE": 0.014119723333333334,
+      "TA": 0.020171033333333335,
+      "FE": 0.00541433,
+      "ME": 0.0003450308333333333,
+      "TET": 22.2943,
+      "FET": 0.5223236,
+      "MET": 0.668829,
+      "HCT": 0.4066055666666667,
+      "HNT": 9.034499666666667,
+      "LU": 0.05191387,
+      "MRS": 0.014756703333333333,
+      "FRS": 2.452373,
+      "WC": 0.035777043333333335
+    },
+    "Wastewater": {
+      "GWP": 0.0005719999999999999,
+      "SOD": 1.6460000000000001e-09,
+      "IR": 2.12e-05,
+      "OF-HH": 1.364e-06,
+      "FPMF": 8.520000000000001e-07,
+      "OF-TE": 1.406e-06,
+      "TA": 1.6639999999999999e-06,
+      "FE": 1.27e-05,
+      "ME": 4.52e-06,
+      "TET": 0.00242,
+      "FET": 7.82e-05,
+      "MET": 0.0001062,
+      "HCT": 9.84e-05,
+      "HNT": 0.0044,
+      "LU": 1.15e-05,
+      "MRS": 4.38e-06,
+      "FRS": 0.0001158,
+      "WC": -0.0038
+    },
+    "Transport_and_packaging": {
+      "GWP": 0.012632,
+      "SOD": null,
+      "IR": null,
+      "OF-HH": null,
+      "FPMF": null,
+      "OF-TE": null,
+      "TA": null,
+      "FE": null,
+      "ME": null,
+      "TET": null,
+      "FET": null,
+      "MET": null,
+      "HCT": null,
+      "HNT": null,
+      "LU": null,
+      "MRS": null,
+      "FRS": null,
+      "WC": null
+    }
+  },
+  "gwp_contribution_shares_pct": {
+    "TiO2": 0.08061200020861381,
+    "Glucose": 0.03201027101851111,
+    "CuSO4_5H2O": 0.0016886092675278052,
+    "DI_water": 0.011408247982739497,
+    "Electricity_grid_TH": 99.71866671205558,
+    "Wastewater": 0.006741237444346067,
+    "Transport_and_packaging": 0.14887292202269148
+  },
+  "endpoint_total_per_FU": {
+    "DALY": 1.627743428e-05,
+    "species_yr": 3.498455286666667e-08,
+    "USD2013": 0.583691891452
+  },
+  "endpoint_by_flow": {
+    "TiO2": {
+      "DALY": 2e-08,
+      "species_yr": 3.75e-11,
+      "USD2013": 0.000603
+    },
+    "Glucose": {
+      "DALY": 7.2063e-09,
+      "species_yr": 2.1509e-11,
+      "USD2013": 0.00015276099999999998
+    },
+    "CuSO4_5H2O": {
+      "DALY": 4.9392000000000005e-09,
+      "species_yr": 4.644e-12,
+      "USD2013": 1.4472000000000001e-05
+    },
+    "DI_water": {
+      "DALY": 7.16e-09,
+      "species_yr": 2.86e-11,
+      "USD2013": 5.66e-05
+    },
+    "Electricity_grid_TH": {
+      "DALY": 1.624299e-05,
+      "species_yr": 3.492773666666667e-08,
+      "USD2013": 0.5828367
+    },
+    "Wastewater": {
+      "DALY": -4.86122e-09,
+      "species_yr": -3.54368e-11,
+      "USD2013": 2.8358451999999998e-05
+    }
+  },
+  "singlescore_total_per_FU_mPt": {
+    "mPt_HH": 271.28971440632,
+    "mPt_ES": 9.453255200115334,
+    "mPt_RS": 4.157085193011334
+  },
+  "singlescore_total_mPt_all": 284.90005479944665,
+  "singlescore_by_flow": {
+    "TiO2": {
+      "mPt_HH": 0.333,
+      "mPt_ES": 0.0101,
+      "mPt_RS": 0.0043
+    },
+    "Glucose": {
+      "mPt_HH": 0.11994800000000001,
+      "mPt_ES": 0.0058247,
+      "mPt_RS": 0.00108958
+    },
+    "CuSO4_5H2O": {
+      "mPt_HH": 0.08208,
+      "mPt_ES": 0.0012527999999999999,
+      "mPt_RS": 0.00010296
+    },
+    "DI_water": {
+      "mPt_HH": 0.1192,
+      "mPt_ES": 0.00774,
+      "mPt_RS": 0.000404
+    },
+    "Electricity_grid_TH": {
+      "mPt_HH": 270.7165,
+      "mPt_ES": 9.437920333333334,
+      "mPt_RS": 4.150986333333334
+    },
+    "Wastewater": {
+      "mPt_HH": -0.08101359368,
+      "mPt_ES": -0.009582633218,
+      "mPt_RS": 0.00020231967800000001
+    }
+  }
+}

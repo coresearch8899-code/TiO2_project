@@ -1,0 +1,4766 @@
+{
+ "bbd": [
+  {
+   "Run": 1,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.02,
+   "Time_min": 150,
+   "Ai": 0.571,
+   "A0": 0.498,
+   "A60": 0.419,
+   "Photodeg_pct": 15.8634538153,
+   "k_app_min-1": 0.0028788193,
+   "Mass_photodeg_mg": 0.0396586345,
+   "AQE_pct": 0.0012904747,
+   "EEO_kWh_m3_order": 13330.6103707057,
+   "SEC_syn_Wh_mg": 315.1898734177,
+   "SEC_photo_Wh_mg": 2521.5189873418,
+   "SEC_total_Wh_mg": 2836.7088607595
+  },
+  {
+   "Run": 2,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.02,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.514,
+   "A60": 0.492,
+   "Photodeg_pct": 4.280155642,
+   "k_app_min-1": 0.0007290758,
+   "Mass_photodeg_mg": 0.0107003891,
+   "AQE_pct": 0.000348186,
+   "EEO_kWh_m3_order": 52637.0747347092,
+   "SEC_syn_Wh_mg": 1168.1818181818,
+   "SEC_photo_Wh_mg": 9345.4545454545,
+   "SEC_total_Wh_mg": 10513.6363636364
+  },
+  {
+   "Run": 3,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.08,
+   "Time_min": 150,
+   "Ai": 0.571,
+   "A0": 0.474,
+   "A60": 0.447,
+   "Photodeg_pct": 5.6962025316,
+   "k_app_min-1": 0.0009774788,
+   "Mass_photodeg_mg": 0.0142405063,
+   "AQE_pct": 0.0004633799,
+   "EEO_kWh_m3_order": 39260.6149796568,
+   "SEC_syn_Wh_mg": 877.7777777778,
+   "SEC_photo_Wh_mg": 7022.2222222222,
+   "SEC_total_Wh_mg": 7900.0
+  },
+  {
+   "Run": 4,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.571,
+   "A0": 0.475,
+   "A60": 0.402,
+   "Photodeg_pct": 15.3684210526,
+   "k_app_min-1": 0.0027810453,
+   "Mass_photodeg_mg": 0.0384210526,
+   "AQE_pct": 0.0012502043,
+   "EEO_kWh_m3_order": 13799.2785701634,
+   "SEC_syn_Wh_mg": 325.3424657534,
+   "SEC_photo_Wh_mg": 2602.7397260274,
+   "SEC_total_Wh_mg": 2928.0821917808
+  },
+  {
+   "Run": 5,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.05,
+   "Time_min": 120,
+   "Ai": 0.571,
+   "A0": 0.464,
+   "A60": 0.398,
+   "Photodeg_pct": 14.224137931,
+   "k_app_min-1": 0.0025572091,
+   "Mass_photodeg_mg": 0.0355603448,
+   "AQE_pct": 0.0011571181,
+   "EEO_kWh_m3_order": 15007.1489973193,
+   "SEC_syn_Wh_mg": 281.2121212121,
+   "SEC_photo_Wh_mg": 2812.1212121212,
+   "SEC_total_Wh_mg": 3093.3333333333
+  },
+  {
+   "Run": 6,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 120,
+   "Ai": 0.571,
+   "A0": 0.529,
+   "A60": 0.457,
+   "Photodeg_pct": 13.6105860113,
+   "k_app_min-1": 0.0024384173,
+   "Mass_photodeg_mg": 0.034026465,
+   "AQE_pct": 0.0011072063,
+   "EEO_kWh_m3_order": 15738.2485102419,
+   "SEC_syn_Wh_mg": 293.8888888889,
+   "SEC_photo_Wh_mg": 2938.8888888889,
+   "SEC_total_Wh_mg": 3232.7777777778
+  },
+  {
+   "Run": 7,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.05,
+   "Time_min": 180,
+   "Ai": 0.571,
+   "A0": 0.463,
+   "A60": 0.421,
+   "Photodeg_pct": 9.0712742981,
+   "k_app_min-1": 0.0015849037,
+   "Mass_photodeg_mg": 0.0226781857,
+   "AQE_pct": 0.0007379383,
+   "EEO_kWh_m3_order": 24213.7228026611,
+   "SEC_syn_Wh_mg": 661.4285714286,
+   "SEC_photo_Wh_mg": 4409.5238095238,
+   "SEC_total_Wh_mg": 5070.9523809524
+  },
+  {
+   "Run": 8,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 180,
+   "Ai": 0.571,
+   "A0": 0.499,
+   "A60": 0.416,
+   "Photodeg_pct": 16.6332665331,
+   "k_app_min-1": 0.0030320139,
+   "Mass_photodeg_mg": 0.0415831663,
+   "AQE_pct": 0.0013530981,
+   "EEO_kWh_m3_order": 12657.0718894779,
+   "SEC_syn_Wh_mg": 360.7228915663,
+   "SEC_photo_Wh_mg": 2404.8192771084,
+   "SEC_total_Wh_mg": 2765.5421686747
+  },
+  {
+   "Run": 9,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.02,
+   "Time_min": 120,
+   "Ai": 0.627,
+   "A0": 0.527,
+   "A60": 0.451,
+   "Photodeg_pct": 14.4212523719,
+   "k_app_min-1": 0.0025955535,
+   "Mass_photodeg_mg": 0.0360531309,
+   "AQE_pct": 0.0011731531,
+   "EEO_kWh_m3_order": 14785.4469011942,
+   "SEC_syn_Wh_mg": 277.3684210526,
+   "SEC_photo_Wh_mg": 2773.6842105263,
+   "SEC_total_Wh_mg": 3051.0526315789
+  },
+  {
+   "Run": 10,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.08,
+   "Time_min": 120,
+   "Ai": 0.627,
+   "A0": 0.55,
+   "A60": 0.434,
+   "Photodeg_pct": 21.0909090909,
+   "k_app_min-1": 0.0039478957,
+   "Mass_photodeg_mg": 0.0527272727,
+   "AQE_pct": 0.0017157224,
+   "EEO_kWh_m3_order": 9720.7273920918,
+   "SEC_syn_Wh_mg": 189.6551724138,
+   "SEC_photo_Wh_mg": 1896.5517241379,
+   "SEC_total_Wh_mg": 2086.2068965517
+  },
+  {
+   "Run": 11,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.02,
+   "Time_min": 180,
+   "Ai": 0.627,
+   "A0": 0.541,
+   "A60": 0.501,
+   "Photodeg_pct": 7.393715342,
+   "k_app_min-1": 0.0012802196,
+   "Mass_photodeg_mg": 0.0184842884,
+   "AQE_pct": 0.0006014707,
+   "EEO_kWh_m3_order": 29976.4332122793,
+   "SEC_syn_Wh_mg": 811.5,
+   "SEC_photo_Wh_mg": 5410.0,
+   "SEC_total_Wh_mg": 6221.5
+  },
+  {
+   "Run": 12,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.08,
+   "Time_min": 180,
+   "Ai": 0.627,
+   "A0": 0.551,
+   "A60": 0.498,
+   "Photodeg_pct": 9.6188747731,
+   "k_app_min-1": 0.0016855789,
+   "Mass_photodeg_mg": 0.0240471869,
+   "AQE_pct": 0.000782485,
+   "EEO_kWh_m3_order": 22767.5007837451,
+   "SEC_syn_Wh_mg": 623.7735849057,
+   "SEC_photo_Wh_mg": 4158.4905660377,
+   "SEC_total_Wh_mg": 4782.2641509434
+  },
+  {
+   "Run": 13,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.511,
+   "A60": 0.397,
+   "Photodeg_pct": 22.3091976517,
+   "k_app_min-1": 0.0042072218,
+   "Mass_photodeg_mg": 0.0557729941,
+   "AQE_pct": 0.0018148289,
+   "EEO_kWh_m3_order": 9121.5580756921,
+   "SEC_syn_Wh_mg": 224.1228070175,
+   "SEC_photo_Wh_mg": 1792.9824561404,
+   "SEC_total_Wh_mg": 2017.1052631579
+  },
+  {
+   "Run": 14,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.513,
+   "A60": 0.399,
+   "Photodeg_pct": 22.2222222222,
+   "k_app_min-1": 0.0041885738,
+   "Mass_photodeg_mg": 0.0555555556,
+   "AQE_pct": 0.0018077535,
+   "EEO_kWh_m3_order": 9162.1683193626,
+   "SEC_syn_Wh_mg": 225.0,
+   "SEC_photo_Wh_mg": 1800.0,
+   "SEC_total_Wh_mg": 2025.0
+  },
+  {
+   "Run": 15,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.514,
+   "A60": 0.401,
+   "Photodeg_pct": 21.9844357977,
+   "k_app_min-1": 0.0041376973,
+   "Mass_photodeg_mg": 0.0549610895,
+   "AQE_pct": 0.0017884099,
+   "EEO_kWh_m3_order": 9274.8249596696,
+   "SEC_syn_Wh_mg": 227.4336283186,
+   "SEC_photo_Wh_mg": 1819.4690265487,
+   "SEC_total_Wh_mg": 2046.9026548673
+  }
+ ],
+ "rsm_summary": [
+  {
+   "Response": "Photodeg_pct",
+   "R2": 0.9180213662,
+   "Adj_R2": 0.7704598255,
+   "F_pvalue": 0.0290603963,
+   "RMSE": 2.9000034276
+  },
+  {
+   "Response": "k_app_min-1",
+   "R2": 0.9149272584,
+   "Adj_R2": 0.7617963235,
+   "F_pvalue": 0.0316233177,
+   "RMSE": 0.0005738535
+  },
+  {
+   "Response": "AQE_pct",
+   "R2": 0.9180213662,
+   "Adj_R2": 0.7704598255,
+   "F_pvalue": 0.0290603963,
+   "RMSE": 0.0002359121
+  },
+  {
+   "Response": "EEO_kWh_m3_order",
+   "R2": 0.9535048172,
+   "Adj_R2": 0.8698134882,
+   "F_pvalue": 0.0077177931,
+   "RMSE": 4543.3938170383
+  },
+  {
+   "Response": "SEC_total_Wh_mg",
+   "R2": 0.9535070058,
+   "Adj_R2": 0.8698196161,
+   "F_pvalue": 0.0077169283,
+   "RMSE": 894.0226590938
+  }
+ ],
+ "ml_summary": [
+  {
+   "Response": "Photodeg_pct",
+   "GPR_R2_insample": 0.9998891022,
+   "GPR_R2_LOOCV": -0.2432699724,
+   "GPR_RMSE_LOOCV": 6.5203403858,
+   "RF_R2_insample": 0.8686886854,
+   "RF_R2_LOOCV": -0.0189657348,
+   "RF_RMSE_LOOCV": 5.9029259582,
+   "SVR_R2_insample": 0.9998085779,
+   "SVR_R2_LOOCV": 0.4599650152,
+   "SVR_RMSE_LOOCV": 4.2973279045,
+   "KNR_R2_insample": 0.4310363922,
+   "KNR_R2_LOOCV": 0.2611399486,
+   "KNR_RMSE_LOOCV": 5.0265341639,
+   "GBR_R2_insample": 0.9998263272,
+   "GBR_R2_LOOCV": -0.2821095564,
+   "GBR_RMSE_LOOCV": 6.6214044205,
+   "MLP_R2_insample": 0.9965081565,
+   "MLP_R2_LOOCV": -0.0292309092,
+   "MLP_RMSE_LOOCV": 5.932584816,
+   "XGBR_R2_insample": 0.9998810763,
+   "XGBR_R2_LOOCV": -0.2457364434,
+   "XGBR_RMSE_LOOCV": 6.5268048957,
+   "LGBMR_R2_insample": 0.9998898003,
+   "LGBMR_R2_LOOCV": -0.4221375061,
+   "LGBMR_RMSE_LOOCV": 6.9736210017,
+   "DTR_R2_insample": 0.9998898003,
+   "DTR_R2_LOOCV": -0.472502906,
+   "DTR_RMSE_LOOCV": 7.0960329926,
+   "RSM_R2_insample": 0.9180213662,
+   "RSM_R2_LOOCV": -0.9682316463,
+   "RSM_RMSE_LOOCV": 8.203999986
+  },
+  {
+   "Response": "k_app_min-1",
+   "GPR_R2_insample": 0.9998651476,
+   "GPR_R2_LOOCV": -0.2002715359,
+   "GPR_RMSE_LOOCV": 0.0012444715,
+   "RF_R2_insample": 0.874041814,
+   "RF_R2_LOOCV": 0.0187372196,
+   "RF_RMSE_LOOCV": 0.0011252211,
+   "SVR_R2_insample": 0.9997857187,
+   "SVR_R2_LOOCV": 0.4736959544,
+   "SVR_RMSE_LOOCV": 0.0008240689,
+   "KNR_R2_insample": 0.4309291385,
+   "KNR_R2_LOOCV": 0.2891821067,
+   "KNR_RMSE_LOOCV": 0.0009576887,
+   "GBR_R2_insample": 0.9997557251,
+   "GBR_R2_LOOCV": -0.1789208,
+   "GBR_RMSE_LOOCV": 0.0012333533,
+   "MLP_R2_insample": 0.9966884696,
+   "MLP_R2_LOOCV": -0.0315760573,
+   "MLP_RMSE_LOOCV": 0.0011537078,
+   "XGBR_R2_insample": 0.9998544931,
+   "XGBR_R2_LOOCV": -0.1930858868,
+   "XGBR_RMSE_LOOCV": 0.0012407407,
+   "LGBMR_R2_insample": 0.9998661839,
+   "LGBMR_R2_LOOCV": -0.3706153168,
+   "LGBMR_RMSE_LOOCV": 0.001329851,
+   "DTR_R2_insample": 0.9998661839,
+   "DTR_R2_LOOCV": -0.4230770003,
+   "DTR_RMSE_LOOCV": 0.0013550627,
+   "RSM_R2_insample": 0.9149272584,
+   "RSM_R2_LOOCV": -1.061381826,
+   "RSM_RMSE_LOOCV": 0.001630889
+  },
+  {
+   "Response": "AQE_pct",
+   "GPR_R2_insample": 0.9998891022,
+   "GPR_R2_LOOCV": -0.2432699724,
+   "GPR_RMSE_LOOCV": 0.0005304226,
+   "RF_R2_insample": 0.8693511164,
+   "RF_R2_LOOCV": -0.0271744452,
+   "RF_RMSE_LOOCV": 0.0004821269,
+   "SVR_R2_insample": 0.9998085779,
+   "SVR_R2_LOOCV": 0.4599650152,
+   "SVR_RMSE_LOOCV": 0.0003495829,
+   "KNR_R2_insample": 0.4310363922,
+   "KNR_R2_LOOCV": 0.2611399486,
+   "KNR_RMSE_LOOCV": 0.0004089031,
+   "GBR_R2_insample": 0.9998263272,
+   "GBR_R2_LOOCV": -0.2959912059,
+   "GBR_RMSE_LOOCV": 0.0005415522,
+   "MLP_R2_insample": 0.9965081565,
+   "MLP_R2_LOOCV": -0.0292309092,
+   "MLP_RMSE_LOOCV": 0.0004826093,
+   "XGBR_R2_insample": 0.9998810763,
+   "XGBR_R2_LOOCV": -0.2457364368,
+   "XGBR_RMSE_LOOCV": 0.0005309485,
+   "LGBMR_R2_insample": 0.9998898003,
+   "LGBMR_R2_LOOCV": -0.4221375061,
+   "LGBMR_RMSE_LOOCV": 0.0005672965,
+   "DTR_R2_insample": 0.9998898003,
+   "DTR_R2_LOOCV": -0.472502906,
+   "DTR_RMSE_LOOCV": 0.0005772545,
+   "RSM_R2_insample": 0.9180213662,
+   "RSM_R2_LOOCV": -0.9682316463,
+   "RSM_RMSE_LOOCV": 0.0006673864
+  },
+  {
+   "Response": "EEO_kWh_m3_order",
+   "GPR_R2_insample": 0.9999943159,
+   "GPR_R2_LOOCV": -0.2336887349,
+   "GPR_RMSE_LOOCV": 13511.9669794483,
+   "RF_R2_insample": 0.8327854328,
+   "RF_R2_LOOCV": -0.3227916884,
+   "RF_RMSE_LOOCV": 13991.4106823274,
+   "SVR_R2_insample": 0.9999147467,
+   "SVR_R2_LOOCV": 0.1832895911,
+   "SVR_RMSE_LOOCV": 10993.8503509889,
+   "KNR_R2_insample": 0.3818659467,
+   "KNR_R2_LOOCV": -0.2552112413,
+   "KNR_RMSE_LOOCV": 13629.3199160265,
+   "GBR_R2_insample": 0.9999781967,
+   "GBR_R2_LOOCV": -0.4178348977,
+   "GBR_RMSE_LOOCV": 14485.3371005996,
+   "MLP_R2_insample": 0.9931471462,
+   "MLP_R2_LOOCV": -0.5565302863,
+   "MLP_RMSE_LOOCV": 15177.3015641163,
+   "XGBR_R2_insample": 0.9999899462,
+   "XGBR_R2_LOOCV": -0.2184663402,
+   "XGBR_RMSE_LOOCV": 13428.3466487798,
+   "LGBMR_R2_insample": 0.9999943192,
+   "LGBMR_R2_LOOCV": -0.9418495781,
+   "LGBMR_RMSE_LOOCV": 16952.1024434081,
+   "DTR_R2_insample": 0.9999943192,
+   "DTR_R2_LOOCV": -1.0459613608,
+   "DTR_RMSE_LOOCV": 17400.6106481611,
+   "RSM_R2_insample": 0.9535048172,
+   "RSM_R2_LOOCV": 0.0463961909,
+   "RSM_RMSE_LOOCV": 11879.5438313153
+  },
+  {
+   "Response": "SEC_total_Wh_mg",
+   "GPR_R2_insample": 0.9999944522,
+   "GPR_R2_LOOCV": -0.282082865,
+   "GPR_RMSE_LOOCV": 2710.5173311717,
+   "RF_R2_insample": 0.8282792149,
+   "RF_R2_LOOCV": -0.3345007955,
+   "RF_RMSE_LOOCV": 2765.3719864595,
+   "SVR_R2_insample": 0.9999104563,
+   "SVR_R2_LOOCV": 0.1948117556,
+   "SVR_RMSE_LOOCV": 2148.0424187275,
+   "KNR_R2_insample": 0.3858050183,
+   "KNR_R2_LOOCV": -0.2372522414,
+   "KNR_RMSE_LOOCV": 2662.7062960692,
+   "GBR_R2_insample": 0.999985417,
+   "GBR_R2_LOOCV": -0.4347873208,
+   "GBR_RMSE_LOOCV": 2867.3975224618,
+   "MLP_R2_insample": 0.9908250688,
+   "MLP_R2_LOOCV": -0.5761294122,
+   "MLP_RMSE_LOOCV": 3005.3155419932,
+   "XGBR_R2_insample": 0.9999892454,
+   "XGBR_R2_LOOCV": -0.288640353,
+   "XGBR_RMSE_LOOCV": 2717.4402515822,
+   "LGBMR_R2_insample": 0.9999944548,
+   "LGBMR_R2_LOOCV": -0.9523073258,
+   "LGBMR_RMSE_LOOCV": 3344.7851973548,
+   "DTR_R2_insample": 0.9999944548,
+   "DTR_R2_LOOCV": -1.0617887906,
+   "DTR_RMSE_LOOCV": 3437.2904200236,
+   "RSM_R2_insample": 0.9535070058,
+   "RSM_R2_LOOCV": 0.0481150892,
+   "RSM_RMSE_LOOCV": 2335.5349024749
+  }
+ ],
+ "opt_summary": [
+  {
+   "Method": "Desirability (DE)",
+   "Glucose_g": 1.43237654661626,
+   "CuSO4_g": 0.0588954536060088,
+   "Time_min": 148.8499054636451,
+   "Photodeg_pct": 22.4904972427035,
+   "EEO_kWh_m3_order": 7017.548851979765,
+   "SEC_total_Wh_mg": 1602.8921591169862
+  },
+  {
+   "Method": "Weighted sum (equal)",
+   "Glucose_g": 1.3810471344238222,
+   "CuSO4_g": 0.05694237062242083,
+   "Time_min": 147.81867410058803,
+   "Photodeg_pct": 22.463437856924447,
+   "EEO_kWh_m3_order": 7356.1446389345565,
+   "SEC_total_Wh_mg": 1667.2149976261453
+  },
+  {
+   "Method": "Tchebycheff",
+   "Glucose_g": 1.4935752390849255,
+   "CuSO4_g": 0.06149935370279101,
+   "Time_min": 137.35835390822697,
+   "Photodeg_pct": 22.868520413645463,
+   "EEO_kWh_m3_order": 5301.741035116454,
+   "SEC_total_Wh_mg": 1241.212613144942
+  },
+  {
+   "Method": "NSGA-II (best degradation)",
+   "Glucose_g": 1.5118936990053427,
+   "CuSO4_g": 0.0644431604631758,
+   "Time_min": 139.4147834539633,
+   "Photodeg_pct": 22.924356433394458,
+   "EEO_kWh_m3_order": 5151.274266690834,
+   "SEC_total_Wh_mg": 1216.3831680534472
+  },
+  {
+   "Method": "NSGA-II (best EEO)",
+   "Glucose_g": 1.5897977281867484,
+   "CuSO4_g": 0.06640686255994499,
+   "Time_min": 120.00002276254783,
+   "Photodeg_pct": 21.364659377100143,
+   "EEO_kWh_m3_order": 3246.8792488560657,
+   "SEC_total_Wh_mg": 812.373448013797
+  }
+ ],
+ "kin_summary": [
+  {
+   "Condition": "K1",
+   "Method": "Heat / no light",
+   "Photodeg_60min_pct_mean": 18.8123403874,
+   "Photodeg_60min_pct_sd": 0.2135337129,
+   "k_regression_min-1_mean": 0.0034467715,
+   "k_regression_min-1_sd": 4.15811e-05,
+   "R2_mean": 0.9821236337,
+   "EEO_mean": 11049.5500313384
+  },
+  {
+   "Condition": "K2",
+   "Method": "Light / no added heat",
+   "Photodeg_60min_pct_mean": 18.3671202749,
+   "Photodeg_60min_pct_sd": 0.1665980607,
+   "k_regression_min-1_mean": 0.0033345002,
+   "k_regression_min-1_sd": 1.89829e-05,
+   "R2_mean": 0.9839514157,
+   "EEO_mean": 11346.93271678
+  },
+  {
+   "Condition": "K3",
+   "Method": "Bare TiO2, light+heat",
+   "Photodeg_60min_pct_mean": 13.9941193382,
+   "Photodeg_60min_pct_sd": 0.3034020157,
+   "k_regression_min-1_mean": 0.002572132,
+   "k_regression_min-1_sd": 0.0001156589,
+   "R2_mean": 0.9856965123,
+   "EEO_mean": 15278.8748382968
+  },
+  {
+   "Condition": "K4",
+   "Method": "Carbon-only, light+heat",
+   "Photodeg_60min_pct_mean": 18.9886156264,
+   "Photodeg_60min_pct_sd": 0.8569976613,
+   "k_regression_min-1_mean": 0.0034371554,
+   "k_regression_min-1_sd": 0.0001210909,
+   "R2_mean": 0.9825909947,
+   "EEO_mean": 10950.7599172693
+  },
+  {
+   "Condition": "K5",
+   "Method": "Cu-only, light+heat",
+   "Photodeg_60min_pct_mean": 18.9375673956,
+   "Photodeg_60min_pct_sd": 0.513499966,
+   "k_regression_min-1_mean": 0.0034222663,
+   "k_regression_min-1_sd": 8.67421e-05,
+   "R2_mean": 0.9894184427,
+   "EEO_mean": 10973.1856181812
+  },
+  {
+   "Condition": "K6",
+   "Method": "Full Cu+C, light+heat",
+   "Photodeg_60min_pct_mean": 22.560623183,
+   "Photodeg_60min_pct_sd": 0.3231448822,
+   "k_regression_min-1_mean": 0.0042774303,
+   "k_regression_min-1_sd": 6.47802e-05,
+   "R2_mean": 0.9702453924,
+   "EEO_mean": 9007.3172543948
+  }
+ ],
+ "val_summary": [
+  {
+   "Set": "V1",
+   "Label": "Direct replicate of new optimum",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140.0,
+   "Photodeg_mean": 22.9167329768,
+   "Photodeg_sd": 0.0477432973,
+   "Recovery_vs_center_pct": 103.3591137574,
+   "Recovery_vs_new_optimum_pct": 102.7456944016,
+   "Model_prediction_at_point_pct": 22.7092880592,
+   "Recovery_vs_model_pct": 100.9134804977,
+   "Welch_t_vs_center": -7.3813920411,
+   "p_vs_center": 0.0116694422,
+   "kapp_mean": 0.0043380681,
+   "kapp_sd": 1.03229e-05,
+   "EEO_mean": 8846.4639438231,
+   "EEO_sd": 21.051036827,
+   "SEC_total_mean": 1949.0909090909,
+   "SEC_total_sd": 4.0606060606
+  },
+  {
+   "Set": "V2",
+   "Label": "Direct replicate of new optimum",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140.0,
+   "Photodeg_mean": 22.3741243433,
+   "Photodeg_sd": 0.9980664182,
+   "Recovery_vs_center_pct": 100.9118387671,
+   "Recovery_vs_new_optimum_pct": 100.3129435863,
+   "Model_prediction_at_point_pct": 22.7092880592,
+   "Recovery_vs_model_pct": 98.5241117422,
+   "Welch_t_vs_center": -0.3459775626,
+   "p_vs_center": 0.7607879565,
+   "kapp_mean": 0.004222079,
+   "kapp_sd": 0.0002150844,
+   "EEO_mean": 9104.7694299003,
+   "EEO_sd": 450.7919132275,
+   "SEC_total_mean": 1998.9400221498,
+   "SEC_total_sd": 86.9680448727
+  },
+  {
+   "Set": "V3",
+   "Label": "Direct replicate of new optimum",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140.0,
+   "Photodeg_mean": 21.6221158519,
+   "Photodeg_sd": 0.3992709805,
+   "Recovery_vs_center_pct": 97.5201279466,
+   "Recovery_vs_new_optimum_pct": 96.9413620121,
+   "Model_prediction_at_point_pct": 22.7092880592,
+   "Recovery_vs_model_pct": 95.2126539394,
+   "Welch_t_vs_center": 2.1982879929,
+   "p_vs_center": 0.1257119575,
+   "kapp_mean": 0.004060617,
+   "kapp_sd": 8.47807e-05,
+   "EEO_mean": 9453.6638400821,
+   "EEO_sd": 199.7546168459,
+   "SEC_total_mean": 2066.2608154373,
+   "SEC_total_sd": 38.5605840384
+  },
+  {
+   "Set": "V4",
+   "Label": "Glucose -0.10 g, time -5 min",
+   "Glucose_g": 1.47,
+   "CuSO4_g": 0.072,
+   "Time_min": 135.0,
+   "Photodeg_mean": 14.511799006,
+   "Photodeg_sd": 0.0976070584,
+   "Recovery_vs_center_pct": 65.4511568384,
+   "Recovery_vs_new_optimum_pct": 65.0627149777,
+   "Model_prediction_at_point_pct": 22.4789466354,
+   "Recovery_vs_model_pct": 64.557291057,
+   "Welch_t_vs_center": 68.2510645035,
+   "p_vs_center": 3.4619e-06,
+   "kapp_mean": 0.0026132042,
+   "kapp_sd": 1.90356e-05,
+   "EEO_mean": 14686.0966946407,
+   "EEO_sd": 106.5313603273,
+   "SEC_total_mean": 3066.5623843021,
+   "SEC_total_sd": 20.5460599313
+  },
+  {
+   "Set": "V5",
+   "Label": "Glucose +0.10 g, time +5 min",
+   "Glucose_g": 1.67,
+   "CuSO4_g": 0.072,
+   "Time_min": 145.0,
+   "Photodeg_mean": 14.7056313864,
+   "Photodeg_sd": 0.1791902455,
+   "Recovery_vs_center_pct": 66.3253801876,
+   "Recovery_vs_new_optimum_pct": 65.931749955,
+   "Model_prediction_at_point_pct": 22.6530459192,
+   "Recovery_vs_model_pct": 64.9167950255,
+   "Welch_t_vs_center": 52.6319345645,
+   "p_vs_center": 8.172e-07,
+   "kapp_mean": 0.0026510537,
+   "kapp_sd": 3.50141e-05,
+   "EEO_mean": 14477.5949458968,
+   "EEO_sd": 191.2336494328,
+   "SEC_total_mean": 3049.0205257309,
+   "SEC_total_sd": 37.1564655027
+  },
+  {
+   "Set": "V6",
+   "Label": "CuSO4 -0.012 g",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.06,
+   "Time_min": 140.0,
+   "Photodeg_mean": 14.9667256952,
+   "Photodeg_sd": 0.1882121212,
+   "Recovery_vs_center_pct": 67.5029684761,
+   "Recovery_vs_new_optimum_pct": 67.1023494506,
+   "Model_prediction_at_point_pct": 22.7107924296,
+   "Recovery_vs_model_pct": 65.9013803309,
+   "Welch_t_vs_center": 49.452002383,
+   "p_vs_center": 1.152e-06,
+   "kapp_mean": 0.002702153,
+   "kapp_sd": 3.68969e-05,
+   "EEO_mean": 14203.9250849796,
+   "EEO_sd": 193.5129943887,
+   "SEC_total_mean": 2984.7120394051,
+   "SEC_total_sd": 37.4563004521
+  },
+  {
+   "Set": "V7",
+   "Label": "CuSO4 +0.008 g",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.08,
+   "Time_min": 140.0,
+   "Photodeg_mean": 15.1668187645,
+   "Photodeg_sd": 0.4298669599,
+   "Recovery_vs_center_pct": 68.405428802,
+   "Recovery_vs_new_optimum_pct": 67.9994538227,
+   "Model_prediction_at_point_pct": 21.8260677495,
+   "Recovery_vs_model_pct": 69.4894698327,
+   "Welch_t_vs_center": 26.286803681,
+   "p_vs_center": 0.0003179846,
+   "kapp_mean": 0.0027415329,
+   "kapp_sd": 8.43491e-05,
+   "EEO_mean": 14007.1362840672,
+   "EEO_sd": 437.6159348196,
+   "SEC_total_mean": 2946.6258169935,
+   "SEC_total_sd": 84.7027488319
+  }
+ ],
+ "rsm_coefs": {
+  "Photodeg_pct": {
+   "Intercept": 21.794307991378272,
+   "X1": 1.115286858596825,
+   "X2": 1.9958284847134165,
+   "X3": -2.5787193073726056,
+   "I(X1 ** 2)": -5.27531040251065,
+   "I(X2 ** 2)": -4.962472852695993,
+   "I(X3 ** 2)": -3.4174143198469986,
+   "X1:X2": 6.851578573691285,
+   "X1:X3": 2.0438860386755735,
+   "X2:X3": -1.1111243219530464
+  },
+  "k_app_min-1": {
+   "Intercept": 0.00409939570072319,
+   "X1": 0.00021021277293337923,
+   "X2": 0.00038481284838001327,
+   "X3": -0.0004945449485140028,
+   "I(X1 ** 2)": -0.0010579515562014101,
+   "I(X2 ** 2)": -0.0009661227275083143,
+   "I(X3 ** 2)": -0.00069713458625438,
+   "X1:X2": 0.0012808705742097795,
+   "X1:X3": 0.000391475504433856,
+   "X2:X3": -0.0002367457530032639
+  },
+  "AQE_pct": {
+   "Intercept": 0.001772943167685246,
+   "X1": 9.072736866619512e-05,
+   "X2": 0.00016235846888297867,
+   "X3": -0.00020977600110968982,
+   "I(X1 ** 2)": -0.0004291407435028493,
+   "I(X2 ** 2)": -0.0004036917502721993,
+   "I(X3 ** 2)": -0.0002780029249801977,
+   "X1:X2": 0.0005573684388093471,
+   "X1:X3": 0.00016626789844534815,
+   "X2:X3": -9.038875085342753e-05
+  },
+  "EEO_kWh_m3_order": {
+   "Intercept": 8999.763456282908,
+   "X1": -1404.467157207312,
+   "X2": -4789.779416673538,
+   "X3": 4295.394610914506,
+   "I(X1 ** 2)": 7322.504242838739,
+   "I(X2 ** 2)": 10010.613758179032,
+   "I(X3 ** 2)": 441.9651043345393,
+   "X1:X2": -19476.14815341346,
+   "X1:X3": -3071.937606526438,
+   "X2:X3": -536.053229857948
+  },
+  "SEC_total_Wh_mg": {
+   "Intercept": 1995.74172372366,
+   "X1": -280.5605084464977,
+   "X2": -938.2883896733703,
+   "X3": 922.1110076660844,
+   "I(X1 ** 2)": 1416.4664702119542,
+   "I(X2 ** 2)": 1961.962348222994,
+   "I(X3 ** 2)": 102.99753453539631,
+   "X1:X2": -3807.20195294604,
+   "X1:X3": -611.2136641805312,
+   "X2:X3": -118.59752850734475
+  }
+ },
+ "center_photodeg_mean": 22.171951890516997,
+ "center_photodeg_sd": 0.16811571949218665,
+ "center_kapp_mean": 0.004177830977477866,
+ "center_kapp_sd": 3.598570646582005e-05,
+ "anova": {
+  "Photodeg_pct": [
+   {
+    "Unnamed: 0": "X1",
+    "sum_sq": 0.2306903891,
+    "df": 1.0,
+    "F": 0.0274304214,
+    "PR(>F)": 0.8749433974
+   },
+   {
+    "Unnamed: 0": "X2",
+    "sum_sq": 1.1682497776,
+    "df": 1.0,
+    "F": 0.1389116547,
+    "PR(>F)": 0.724642432
+   },
+   {
+    "Unnamed: 0": "X3",
+    "sum_sq": 53.1983461297,
+    "df": 1.0,
+    "F": 6.325591008,
+    "PR(>F)": 0.0534954878
+   },
+   {
+    "Unnamed: 0": "I(X1 ** 2)",
+    "sum_sq": 92.3247490849,
+    "df": 1.0,
+    "F": 10.9779465926,
+    "PR(>F)": 0.0211635312
+   },
+   {
+    "Unnamed: 0": "I(X2 ** 2)",
+    "sum_sq": 73.936904828,
+    "df": 1.0,
+    "F": 8.7915255711,
+    "PR(>F)": 0.0313355748
+   },
+   {
+    "Unnamed: 0": "I(X3 ** 2)",
+    "sum_sq": 40.4435695363,
+    "df": 1.0,
+    "F": 4.8089743085,
+    "PR(>F)": 0.0798007262
+   },
+   {
+    "Unnamed: 0": "X1:X2",
+    "sum_sq": 101.6051010182,
+    "df": 1.0,
+    "F": 12.081434107,
+    "PR(>F)": 0.0177378404
+   },
+   {
+    "Unnamed: 0": "X1:X3",
+    "sum_sq": 16.7098805564,
+    "df": 1.0,
+    "F": 1.9869014336,
+    "PR(>F)": 0.2177242702
+   },
+   {
+    "Unnamed: 0": "X2:X3",
+    "sum_sq": 4.9383890353,
+    "df": 1.0,
+    "F": 0.5872030157,
+    "PR(>F)": 0.4781003261
+   },
+   {
+    "Unnamed: 0": "Residual",
+    "sum_sq": 42.0500993996,
+    "df": 5.0,
+    "F": null,
+    "PR(>F)": null
+   }
+  ],
+  "k_app_min-1": [
+   {
+    "Unnamed: 0": "X1",
+    "sum_sq": 7.2e-09,
+    "df": 1.0,
+    "F": 0.0219863097,
+    "PR(>F)": 0.8879179218
+   },
+   {
+    "Unnamed: 0": "X2",
+    "sum_sq": 5.38e-08,
+    "df": 1.0,
+    "F": 0.1633210958,
+    "PR(>F)": 0.7028230059
+   },
+   {
+    "Unnamed: 0": "X3",
+    "sum_sq": 1.9566e-06,
+    "df": 1.0,
+    "F": 5.9415460141,
+    "PR(>F)": 0.0588324625
+   },
+   {
+    "Unnamed: 0": "I(X1 ** 2)",
+    "sum_sq": 3.7132e-06,
+    "df": 1.0,
+    "F": 11.2759099593,
+    "PR(>F)": 0.0201527088
+   },
+   {
+    "Unnamed: 0": "I(X2 ** 2)",
+    "sum_sq": 2.8024e-06,
+    "df": 1.0,
+    "F": 8.5099598913,
+    "PR(>F)": 0.0331219441
+   },
+   {
+    "Unnamed: 0": "I(X3 ** 2)",
+    "sum_sq": 1.683e-06,
+    "df": 1.0,
+    "F": 5.1107590463,
+    "PR(>F)": 0.0732875125
+   },
+   {
+    "Unnamed: 0": "X1:X2",
+    "sum_sq": 3.551e-06,
+    "df": 1.0,
+    "F": 10.7830758862,
+    "PR(>F)": 0.0218635688
+   },
+   {
+    "Unnamed: 0": "X1:X3",
+    "sum_sq": 6.13e-07,
+    "df": 1.0,
+    "F": 1.8615174585,
+    "PR(>F)": 0.2306496131
+   },
+   {
+    "Unnamed: 0": "X2:X3",
+    "sum_sq": 2.242e-07,
+    "df": 1.0,
+    "F": 0.6808043511,
+    "PR(>F)": 0.4468741829
+   },
+   {
+    "Unnamed: 0": "Residual",
+    "sum_sq": 1.6465e-06,
+    "df": 5.0,
+    "F": null,
+    "PR(>F)": null
+   }
+  ],
+  "AQE_pct": [
+   {
+    "Unnamed: 0": "X1",
+    "sum_sq": 1.5e-09,
+    "df": 1.0,
+    "F": 0.0274304214,
+    "PR(>F)": 0.8749433974
+   },
+   {
+    "Unnamed: 0": "X2",
+    "sum_sq": 7.7e-09,
+    "df": 1.0,
+    "F": 0.1389116547,
+    "PR(>F)": 0.724642432
+   },
+   {
+    "Unnamed: 0": "X3",
+    "sum_sq": 3.52e-07,
+    "df": 1.0,
+    "F": 6.325591008,
+    "PR(>F)": 0.0534954878
+   },
+   {
+    "Unnamed: 0": "I(X1 ** 2)",
+    "sum_sq": 6.11e-07,
+    "df": 1.0,
+    "F": 10.9779465926,
+    "PR(>F)": 0.0211635312
+   },
+   {
+    "Unnamed: 0": "I(X2 ** 2)",
+    "sum_sq": 4.893e-07,
+    "df": 1.0,
+    "F": 8.7915255711,
+    "PR(>F)": 0.0313355748
+   },
+   {
+    "Unnamed: 0": "I(X3 ** 2)",
+    "sum_sq": 2.676e-07,
+    "df": 1.0,
+    "F": 4.8089743085,
+    "PR(>F)": 0.0798007262
+   },
+   {
+    "Unnamed: 0": "X1:X2",
+    "sum_sq": 6.724e-07,
+    "df": 1.0,
+    "F": 12.081434107,
+    "PR(>F)": 0.0177378404
+   },
+   {
+    "Unnamed: 0": "X1:X3",
+    "sum_sq": 1.106e-07,
+    "df": 1.0,
+    "F": 1.9869014336,
+    "PR(>F)": 0.2177242702
+   },
+   {
+    "Unnamed: 0": "X2:X3",
+    "sum_sq": 3.27e-08,
+    "df": 1.0,
+    "F": 0.5872030157,
+    "PR(>F)": 0.4781003261
+   },
+   {
+    "Unnamed: 0": "Residual",
+    "sum_sq": 2.783e-07,
+    "df": 5.0,
+    "F": null,
+    "PR(>F)": null
+   }
+  ],
+  "EEO_kWh_m3_order": [
+   {
+    "Unnamed: 0": "X1",
+    "sum_sq": 38499908.325158834,
+    "df": 1.0,
+    "F": 1.8650862916,
+    "PR(>F)": 0.2302658799
+   },
+   {
+    "Unnamed: 0": "X2",
+    "sum_sq": 670221.7503697263,
+    "df": 1.0,
+    "F": 0.0324681656,
+    "PR(>F)": 0.8640793844
+   },
+   {
+    "Unnamed: 0": "X3",
+    "sum_sq": 147603318.907787,
+    "df": 1.0,
+    "F": 7.1504826547,
+    "PR(>F)": 0.044134276
+   },
+   {
+    "Unnamed: 0": "I(X1 ** 2)",
+    "sum_sq": 177885833.1768983,
+    "df": 1.0,
+    "F": 8.617486206,
+    "PR(>F)": 0.0324232103
+   },
+   {
+    "Unnamed: 0": "I(X2 ** 2)",
+    "sum_sq": 300875197.6216632,
+    "df": 1.0,
+    "F": 14.5755725396,
+    "PR(>F)": 0.0124009697
+   },
+   {
+    "Unnamed: 0": "I(X3 ** 2)",
+    "sum_sq": 676441.3861920347,
+    "df": 1.0,
+    "F": 0.0327694691,
+    "PR(>F)": 0.8634583251
+   },
+   {
+    "Unnamed: 0": "X1:X2",
+    "sum_sq": 820994723.4137901,
+    "df": 1.0,
+    "F": 39.7721987067,
+    "PR(>F)": 0.0014755079
+   },
+   {
+    "Unnamed: 0": "X1:X3",
+    "sum_sq": 37747202.633565545,
+    "df": 1.0,
+    "F": 1.8286222809,
+    "PR(>F)": 0.2342326396
+   },
+   {
+    "Unnamed: 0": "X2:X3",
+    "sum_sq": 1149412.2609645524,
+    "df": 1.0,
+    "F": 0.05568203,
+    "PR(>F)": 0.8228169096
+   },
+   {
+    "Unnamed: 0": "Residual",
+    "sum_sq": 103212136.88350868,
+    "df": 5.0,
+    "F": null,
+    "PR(>F)": null
+   }
+  ],
+  "SEC_total_Wh_mg": [
+   {
+    "Unnamed: 0": "X1",
+    "sum_sq": 1431460.3964897823,
+    "df": 1.0,
+    "F": 1.7909451481,
+    "PR(>F)": 0.2384411384
+   },
+   {
+    "Unnamed: 0": "X2",
+    "sum_sq": 27253.9603323547,
+    "df": 1.0,
+    "F": 0.0340982874,
+    "PR(>F)": 0.8607540865
+   },
+   {
+    "Unnamed: 0": "X3",
+    "sum_sq": 6802309.683671688,
+    "df": 1.0,
+    "F": 8.5105837044,
+    "PR(>F)": 0.0331178295
+   },
+   {
+    "Unnamed: 0": "I(X1 ** 2)",
+    "sum_sq": 6656327.7118127635,
+    "df": 1.0,
+    "F": 8.3279410656,
+    "PR(>F)": 0.0343540209
+   },
+   {
+    "Unnamed: 0": "I(X2 ** 2)",
+    "sum_sq": 11557031.98904436,
+    "df": 1.0,
+    "F": 14.4593664052,
+    "PR(>F)": 0.0125956258
+   },
+   {
+    "Unnamed: 0": "I(X3 ** 2)",
+    "sum_sq": 36737.3535346517,
+    "df": 1.0,
+    "F": 0.0459632591,
+    "PR(>F)": 0.8387118559
+   },
+   {
+    "Unnamed: 0": "X1:X2",
+    "sum_sq": 31372278.085774876,
+    "df": 1.0,
+    "F": 39.2508443549,
+    "PR(>F)": 0.0015201391
+   },
+   {
+    "Unnamed: 0": "X1:X3",
+    "sum_sq": 1494328.5731239659,
+    "df": 1.0,
+    "F": 1.8696015023,
+    "PR(>F)": 0.2297817704
+   },
+   {
+    "Unnamed: 0": "X2:X3",
+    "sum_sq": 56261.4950722018,
+    "df": 1.0,
+    "F": 0.070390527,
+    "PR(>F)": 0.801360096
+   },
+   {
+    "Unnamed: 0": "Residual",
+    "sum_sq": 3996382.5748654823,
+    "df": 5.0,
+    "F": null,
+    "PR(>F)": null
+   }
+  ]
+ },
+ "pareto": [
+  {
+   "Glucose_g": 1.5118936990053427,
+   "CuSO4_g": 0.0644431604631758,
+   "Time_min": 139.4147834539633,
+   "Photodeg_pct": 22.924356433394458,
+   "EEO_kWh_m3_order": 5151.274266690834,
+   "SEC_total_Wh_mg": 1216.3831680534472
+  },
+  {
+   "Glucose_g": 1.5897977281867484,
+   "CuSO4_g": 0.06640686255994499,
+   "Time_min": 120.00002276254783,
+   "Photodeg_pct": 21.364659377100143,
+   "EEO_kWh_m3_order": 3246.8792488560657,
+   "SEC_total_Wh_mg": 812.373448013797
+  },
+  {
+   "Glucose_g": 1.589557578998895,
+   "CuSO4_g": 0.06640702561164727,
+   "Time_min": 121.32082953853808,
+   "Photodeg_pct": 21.560036534213804,
+   "EEO_kWh_m3_order": 3324.5335970187343,
+   "SEC_total_Wh_mg": 829.2104116545352
+  },
+  {
+   "Glucose_g": 1.5898058046767956,
+   "CuSO4_g": 0.0664077392023236,
+   "Time_min": 124.65189456849197,
+   "Photodeg_pct": 21.991814537489496,
+   "EEO_kWh_m3_order": 3525.1288004740136,
+   "SEC_total_Wh_mg": 872.8772967716875
+  },
+  {
+   "Glucose_g": 1.5896842193781158,
+   "CuSO4_g": 0.0664073034820765,
+   "Time_min": 125.11891070231954,
+   "Photodeg_pct": 22.045951737363346,
+   "EEO_kWh_m3_order": 3554.7440937526344,
+   "SEC_total_Wh_mg": 879.325628378125
+  },
+  {
+   "Glucose_g": 1.5887310111375943,
+   "CuSO4_g": 0.06643466108607758,
+   "Time_min": 128.3121620870102,
+   "Photodeg_pct": 22.37215831827367,
+   "EEO_kWh_m3_order": 3761.6672851750286,
+   "SEC_total_Wh_mg": 924.5146811574689
+  },
+  {
+   "Glucose_g": 1.5714421312474767,
+   "CuSO4_g": 0.06641519873587357,
+   "Time_min": 138.65016393005078,
+   "Photodeg_pct": 22.90144514353275,
+   "EEO_kWh_m3_order": 4599.073851562002,
+   "SEC_total_Wh_mg": 1106.3904288453618
+  },
+  {
+   "Glucose_g": 1.584228732769988,
+   "CuSO4_g": 0.06640963366505603,
+   "Time_min": 135.9271556421113,
+   "Photodeg_pct": 22.83625269619278,
+   "EEO_kWh_m3_order": 4317.811854574162,
+   "SEC_total_Wh_mg": 1046.063990207866
+  },
+  {
+   "Glucose_g": 1.5898181383380643,
+   "CuSO4_g": 0.06640671917561582,
+   "Time_min": 121.71845611829735,
+   "Photodeg_pct": 21.615422111469403,
+   "EEO_kWh_m3_order": 3347.1678112385925,
+   "SEC_total_Wh_mg": 834.142084200859
+  },
+  {
+   "Glucose_g": 1.513228690813004,
+   "CuSO4_g": 0.06443559394942808,
+   "Time_min": 139.40160558264225,
+   "Photodeg_pct": 22.924343502937422,
+   "EEO_kWh_m3_order": 5142.430491879598,
+   "SEC_total_Wh_mg": 1214.6033279640942
+  },
+  {
+   "Glucose_g": 1.5329670257731012,
+   "CuSO4_g": 0.06516385773635552,
+   "Time_min": 139.26087889844746,
+   "Photodeg_pct": 22.92193669536275,
+   "EEO_kWh_m3_order": 4965.477253354747,
+   "SEC_total_Wh_mg": 1179.5799194669953
+  },
+  {
+   "Glucose_g": 1.5886593661362414,
+   "CuSO4_g": 0.0664147835852379,
+   "Time_min": 128.0010433040795,
+   "Photodeg_pct": 22.34385236400974,
+   "EEO_kWh_m3_order": 3743.013445836279,
+   "SEC_total_Wh_mg": 920.3845788994454
+  },
+  {
+   "Glucose_g": 1.5895531424393867,
+   "CuSO4_g": 0.06641039419633293,
+   "Time_min": 122.60578272023119,
+   "Photodeg_pct": 21.73686895979749,
+   "EEO_kWh_m3_order": 3400.775224480527,
+   "SEC_total_Wh_mg": 845.7870311816023
+  },
+  {
+   "Glucose_g": 1.5898058046767956,
+   "CuSO4_g": 0.0664077392023236,
+   "Time_min": 128.71864028388924,
+   "Photodeg_pct": 22.405450285125376,
+   "EEO_kWh_m3_order": 3785.8674387889737,
+   "SEC_total_Wh_mg": 929.8430729871545
+  },
+  {
+   "Glucose_g": 1.523082927092897,
+   "CuSO4_g": 0.06469535736039934,
+   "Time_min": 139.45306713449426,
+   "Photodeg_pct": 22.923872691586052,
+   "EEO_kWh_m3_order": 5071.2966545941945,
+   "SEC_total_Wh_mg": 1200.6993074048623
+  },
+  {
+   "Glucose_g": 1.5898791159826398,
+   "CuSO4_g": 0.06637122180016918,
+   "Time_min": 135.9310861305814,
+   "Photodeg_pct": 22.829813468182326,
+   "EEO_kWh_m3_order": 4290.805711737805,
+   "SEC_total_Wh_mg": 1040.6704702870009
+  },
+  {
+   "Glucose_g": 1.5895493424012523,
+   "CuSO4_g": 0.06641626383832645,
+   "Time_min": 136.79680144287917,
+   "Photodeg_pct": 22.854887019556227,
+   "EEO_kWh_m3_order": 4352.680720928542,
+   "SEC_total_Wh_mg": 1054.3729345735587
+  },
+  {
+   "Glucose_g": 1.5874333952813235,
+   "CuSO4_g": 0.06645785520343762,
+   "Time_min": 138.60270163073028,
+   "Photodeg_pct": 22.88943694103037,
+   "EEO_kWh_m3_order": 4496.847447310109,
+   "SEC_total_Wh_mg": 1086.007148454106
+  },
+  {
+   "Glucose_g": 1.5896842193781158,
+   "CuSO4_g": 0.06640731795981501,
+   "Time_min": 129.19183418243028,
+   "Photodeg_pct": 22.445632524298226,
+   "EEO_kWh_m3_order": 3817.8268956968095,
+   "SEC_total_Wh_mg": 936.8296609657585
+  },
+  {
+   "Glucose_g": 1.5895631662067011,
+   "CuSO4_g": 0.06640722673422174,
+   "Time_min": 120.77841606024866,
+   "Photodeg_pct": 21.481654830360327,
+   "EEO_kWh_m3_order": 3292.70806864888,
+   "SEC_total_Wh_mg": 822.3021009240897
+  },
+  {
+   "Glucose_g": 1.588640827077486,
+   "CuSO4_g": 0.06644353263209243,
+   "Time_min": 132.40290244360108,
+   "Photodeg_pct": 22.673837336638375,
+   "EEO_kWh_m3_order": 4038.993387792621,
+   "SEC_total_Wh_mg": 985.3180355283594
+  },
+  {
+   "Glucose_g": 1.54375074629087,
+   "CuSO4_g": 0.06538344696219789,
+   "Time_min": 139.5400020216624,
+   "Photodeg_pct": 22.919721514929638,
+   "EEO_kWh_m3_order": 4908.935528415153,
+   "SEC_total_Wh_mg": 1168.9432138279512
+  },
+  {
+   "Glucose_g": 1.5427947580934758,
+   "CuSO4_g": 0.06541596458924759,
+   "Time_min": 138.95296148075053,
+   "Photodeg_pct": 22.918027763439383,
+   "EEO_kWh_m3_order": 4863.705293561235,
+   "SEC_total_Wh_mg": 1158.9683971195793
+  },
+  {
+   "Glucose_g": 1.5896555124144267,
+   "CuSO4_g": 0.06640752610001222,
+   "Time_min": 123.86591482566953,
+   "Photodeg_pct": 21.897723929521874,
+   "EEO_kWh_m3_order": 3477.174838574614,
+   "SEC_total_Wh_mg": 862.4165920676808
+  },
+  {
+   "Glucose_g": 1.5897977118279327,
+   "CuSO4_g": 0.06637122180016918,
+   "Time_min": 131.87034616763705,
+   "Photodeg_pct": 22.639216644831915,
+   "EEO_kWh_m3_order": 4002.011824841639,
+   "SEC_total_Wh_mg": 977.1476062684858
+  },
+  {
+   "Glucose_g": 1.5897977281867484,
+   "CuSO4_g": 0.0664078143036638,
+   "Time_min": 124.41734050220663,
+   "Photodeg_pct": 21.96414619577276,
+   "EEO_kWh_m3_order": 3510.6104935008107,
+   "SEC_total_Wh_mg": 869.7121597759684
+  },
+  {
+   "Glucose_g": 1.5894949305384103,
+   "CuSO4_g": 0.06640738656522471,
+   "Time_min": 127.41551267335787,
+   "Photodeg_pct": 22.28717847837121,
+   "EEO_kWh_m3_order": 3701.8653662218844,
+   "SEC_total_Wh_mg": 911.4389931580988
+  },
+  {
+   "Glucose_g": 1.5897980979148079,
+   "CuSO4_g": 0.06640675381682566,
+   "Time_min": 139.34992417967445,
+   "Photodeg_pct": 22.893446014358137,
+   "EEO_kWh_m3_order": 4544.350397321237,
+   "SEC_total_Wh_mg": 1096.6699694500926
+  },
+  {
+   "Glucose_g": 1.5427947580934758,
+   "CuSO4_g": 0.06537151925103742,
+   "Time_min": 138.58981525875177,
+   "Photodeg_pct": 22.915528337978557,
+   "EEO_kWh_m3_order": 4836.404601730321,
+   "SEC_total_Wh_mg": 1152.9080248752148
+  },
+  {
+   "Glucose_g": 1.5895564553302846,
+   "CuSO4_g": 0.06640676383503452,
+   "Time_min": 122.33763221589625,
+   "Photodeg_pct": 21.70092952260218,
+   "EEO_kWh_m3_order": 3384.9338983438265,
+   "SEC_total_Wh_mg": 842.3346163704335
+  },
+  {
+   "Glucose_g": 1.5573746091919176,
+   "CuSO4_g": 0.06640752818368299,
+   "Time_min": 139.47633677828586,
+   "Photodeg_pct": 22.911659363260515,
+   "EEO_kWh_m3_order": 4755.436177561282,
+   "SEC_total_Wh_mg": 1138.8339158174185
+  },
+  {
+   "Glucose_g": 1.5897980979148079,
+   "CuSO4_g": 0.06637317025645047,
+   "Time_min": 139.3937091078376,
+   "Photodeg_pct": 22.89360205015431,
+   "EEO_kWh_m3_order": 4550.486213716745,
+   "SEC_total_Wh_mg": 1097.9449888779172
+  },
+  {
+   "Glucose_g": 1.5890442795643844,
+   "CuSO4_g": 0.06640737962840429,
+   "Time_min": 137.89045571539475,
+   "Photodeg_pct": 22.878025386878797,
+   "EEO_kWh_m3_order": 4437.825553726208,
+   "SEC_total_Wh_mg": 1073.0672607717981
+  },
+  {
+   "Glucose_g": 1.5895646341183018,
+   "CuSO4_g": 0.06641008098062583,
+   "Time_min": 130.3749437528198,
+   "Photodeg_pct": 22.538356243368657,
+   "EEO_kWh_m3_order": 3897.63373529797,
+   "SEC_total_Wh_mg": 954.3133149100886
+  },
+  {
+   "Glucose_g": 1.5887314581834096,
+   "CuSO4_g": 0.06643412400898906,
+   "Time_min": 133.15873744710385,
+   "Photodeg_pct": 22.715400516385483,
+   "EEO_kWh_m3_order": 4092.35631680279,
+   "SEC_total_Wh_mg": 997.0287251517782
+  },
+  {
+   "Glucose_g": 1.5887289042759212,
+   "CuSO4_g": 0.06643349396352424,
+   "Time_min": 122.84342307307024,
+   "Photodeg_pct": 21.770623835017258,
+   "EEO_kWh_m3_order": 3416.36416601323,
+   "SEC_total_Wh_mg": 849.1732515957608
+  },
+  {
+   "Glucose_g": 1.5895821704571635,
+   "CuSO4_g": 0.06641503940713989,
+   "Time_min": 123.6547777709433,
+   "Photodeg_pct": 21.871890351762033,
+   "EEO_kWh_m3_order": 3463.959475305326,
+   "SEC_total_Wh_mg": 859.5496164610165
+  },
+  {
+   "Glucose_g": 1.576966019027294,
+   "CuSO4_g": 0.06677214569882613,
+   "Time_min": 134.31077201237585,
+   "Photodeg_pct": 22.785397898305742,
+   "EEO_kWh_m3_order": 4214.957319576008,
+   "SEC_total_Wh_mg": 1023.3302100140321
+  },
+  {
+   "Glucose_g": 1.5896555124144267,
+   "CuSO4_g": 0.0664061360249428,
+   "Time_min": 133.98093587562303,
+   "Photodeg_pct": 22.754466132692155,
+   "EEO_kWh_m3_order": 4148.251155993003,
+   "SEC_total_Wh_mg": 1009.3491013281016
+  },
+  {
+   "Glucose_g": 1.589801041077646,
+   "CuSO4_g": 0.06640675381682566,
+   "Time_min": 138.215917036994,
+   "Photodeg_pct": 22.882285014141228,
+   "EEO_kWh_m3_order": 4458.151475752994,
+   "SEC_total_Wh_mg": 1077.641442462264
+  },
+  {
+   "Glucose_g": 1.5897975359807017,
+   "CuSO4_g": 0.06637050930187427,
+   "Time_min": 125.5683222828498,
+   "Photodeg_pct": 22.095282534248998,
+   "EEO_kWh_m3_order": 3585.279012945287,
+   "SEC_total_Wh_mg": 885.9152411879638
+  },
+  {
+   "Glucose_g": 1.5896150048580104,
+   "CuSO4_g": 0.06640718478023652,
+   "Time_min": 121.05605626530686,
+   "Photodeg_pct": 21.52191843560379,
+   "EEO_kWh_m3_order": 3308.7782341560464,
+   "SEC_total_Wh_mg": 825.7931800048201
+  },
+  {
+   "Glucose_g": 1.5894915553715898,
+   "CuSO4_g": 0.06640703718915054,
+   "Time_min": 129.95929359789318,
+   "Photodeg_pct": 22.507163579845088,
+   "EEO_kWh_m3_order": 3870.111911547937,
+   "SEC_total_Wh_mg": 948.2669361425347
+  },
+  {
+   "Glucose_g": 1.5890453932929642,
+   "CuSO4_g": 0.06640684527397588,
+   "Time_min": 135.0570002191945,
+   "Photodeg_pct": 22.8006471121918,
+   "EEO_kWh_m3_order": 4228.660481627187,
+   "SEC_total_Wh_mg": 1026.9771183980238
+  },
+  {
+   "Glucose_g": 1.5897980932890425,
+   "CuSO4_g": 0.06640702895400546,
+   "Time_min": 122.00912794684947,
+   "Photodeg_pct": 21.655686728129126,
+   "EEO_kWh_m3_order": 3364.4733458791225,
+   "SEC_total_Wh_mg": 837.9023008545944
+  },
+  {
+   "Glucose_g": 1.5891836211663537,
+   "CuSO4_g": 0.06640673137883413,
+   "Time_min": 134.52300070279787,
+   "Photodeg_pct": 22.779058432028176,
+   "EEO_kWh_m3_order": 4189.416399318592,
+   "SEC_total_Wh_mg": 1018.3557857282543
+  },
+  {
+   "Glucose_g": 1.5890299107526733,
+   "CuSO4_g": 0.06640782243343439,
+   "Time_min": 137.1369254523271,
+   "Photodeg_pct": 22.863417056707753,
+   "EEO_kWh_m3_order": 4381.464021842799,
+   "SEC_total_Wh_mg": 1060.6377091142078
+  },
+  {
+   "Glucose_g": 1.5898058555194492,
+   "CuSO4_g": 0.06640773915248137,
+   "Time_min": 127.71564881983605,
+   "Photodeg_pct": 22.31510245377965,
+   "EEO_kWh_m3_order": 3720.0515945620646,
+   "SEC_total_Wh_mg": 915.441752161227
+  },
+  {
+   "Glucose_g": 1.589804179892605,
+   "CuSO4_g": 0.0664073857611159,
+   "Time_min": 122.21571075560901,
+   "Photodeg_pct": 21.68386638188869,
+   "EEO_kWh_m3_order": 3376.7441796162943,
+   "SEC_total_Wh_mg": 840.5708854927351
+  },
+  {
+   "Glucose_g": 1.5890648834448136,
+   "CuSO4_g": 0.06643206641080499,
+   "Time_min": 126.80099603808031,
+   "Photodeg_pct": 22.22794897241612,
+   "EEO_kWh_m3_order": 3662.1083666659088,
+   "SEC_total_Wh_mg": 902.7696644170339
+  },
+  {
+   "Glucose_g": 1.5516271864827362,
+   "CuSO4_g": 0.0656196512832988,
+   "Time_min": 138.93143885890387,
+   "Photodeg_pct": 22.914572698894418,
+   "EEO_kWh_m3_order": 4795.163249694535,
+   "SEC_total_Wh_mg": 1145.4206380405099
+  },
+  {
+   "Glucose_g": 1.5885195891953112,
+   "CuSO4_g": 0.0664327418696173,
+   "Time_min": 135.49691664308907,
+   "Photodeg_pct": 22.817450340327923,
+   "EEO_kWh_m3_order": 4261.35678458489,
+   "SEC_total_Wh_mg": 1034.1757831925377
+  },
+  {
+   "Glucose_g": 1.5669271941957352,
+   "CuSO4_g": 0.06641535414815557,
+   "Time_min": 139.03555135145348,
+   "Photodeg_pct": 22.906658945928708,
+   "EEO_kWh_m3_order": 4657.66884637608,
+   "SEC_total_Wh_mg": 1118.678273136569
+  },
+  {
+   "Glucose_g": 1.5895493424012523,
+   "CuSO4_g": 0.06641626383832645,
+   "Time_min": 122.98909242417672,
+   "Photodeg_pct": 21.78730289082592,
+   "EEO_kWh_m3_order": 3423.48879934091,
+   "SEC_total_Wh_mg": 850.7405206979859
+  },
+  {
+   "Glucose_g": 1.5898791159826398,
+   "CuSO4_g": 0.06640480536054437,
+   "Time_min": 132.84429815663074,
+   "Photodeg_pct": 22.696602373000648,
+   "EEO_kWh_m3_order": 4066.8536849555835,
+   "SEC_total_Wh_mg": 991.4747722142698
+  },
+  {
+   "Glucose_g": 1.588640827077486,
+   "CuSO4_g": 0.06644353263209243,
+   "Time_min": 126.09262274566095,
+   "Photodeg_pct": 22.155754057838084,
+   "EEO_kWh_m3_order": 3617.660497305039,
+   "SEC_total_Wh_mg": 893.0545014995381
+  },
+  {
+   "Glucose_g": 1.5886552115733206,
+   "CuSO4_g": 0.06633299134950486,
+   "Time_min": 125.72694147546939,
+   "Photodeg_pct": 22.11434290788137,
+   "EEO_kWh_m3_order": 3602.540946704936,
+   "SEC_total_Wh_mg": 889.5156310365985
+  },
+  {
+   "Glucose_g": 1.5890648834448136,
+   "CuSO4_g": 0.06641733640106998,
+   "Time_min": 124.07724706537539,
+   "Photodeg_pct": 21.92509630194791,
+   "EEO_kWh_m3_order": 3491.638733568543,
+   "SEC_total_Wh_mg": 865.5476387674182
+  },
+  {
+   "Glucose_g": 1.5842785775824495,
+   "CuSO4_g": 0.06643587973272135,
+   "Time_min": 129.5393435673178,
+   "Photodeg_pct": 22.483425518203592,
+   "EEO_kWh_m3_order": 3863.3535501711226,
+   "SEC_total_Wh_mg": 946.3758570832093
+  },
+  {
+   "Glucose_g": 1.5541120641890847,
+   "CuSO4_g": 0.06643774745115816,
+   "Time_min": 138.86889672903595,
+   "Photodeg_pct": 22.909877511902756,
+   "EEO_kWh_m3_order": 4726.32838793273,
+   "SEC_total_Wh_mg": 1132.0296361768187
+  },
+  {
+   "Glucose_g": 1.5897977281867484,
+   "CuSO4_g": 0.06640697375603997,
+   "Time_min": 127.06853487170065,
+   "Photodeg_pct": 22.252759688792292,
+   "EEO_kWh_m3_order": 3678.203592154504,
+   "SEC_total_Wh_mg": 906.2899954224177
+  },
+  {
+   "Glucose_g": 1.5897977281867484,
+   "CuSO4_g": 0.06640697375603997,
+   "Time_min": 127.17622667897083,
+   "Photodeg_pct": 22.263355743401526,
+   "EEO_kWh_m3_order": 3685.1546330283545,
+   "SEC_total_Wh_mg": 907.8093193797254
+  },
+  {
+   "Glucose_g": 1.5895944129997739,
+   "CuSO4_g": 0.06641439745601457,
+   "Time_min": 126.68345651191652,
+   "Photodeg_pct": 22.214690109113395,
+   "EEO_kWh_m3_order": 3653.7102116299693,
+   "SEC_total_Wh_mg": 900.9380843062308
+  },
+  {
+   "Glucose_g": 1.5333774117962298,
+   "CuSO4_g": 0.06516385773635552,
+   "Time_min": 139.54727885155225,
+   "Photodeg_pct": 22.922300559056477,
+   "EEO_kWh_m3_order": 4987.308135954339,
+   "SEC_total_Wh_mg": 1184.4099145254715
+  },
+  {
+   "Glucose_g": 1.5897831840036292,
+   "CuSO4_g": 0.06640742493146835,
+   "Time_min": 129.5393435673178,
+   "Photodeg_pct": 22.473729662744667,
+   "EEO_kWh_m3_order": 3840.580831930398,
+   "SEC_total_Wh_mg": 941.8228348404296
+  },
+  {
+   "Glucose_g": 1.577260277952136,
+   "CuSO4_g": 0.06640829577983036,
+   "Time_min": 137.6674256296396,
+   "Photodeg_pct": 22.88458417652024,
+   "EEO_kWh_m3_order": 4488.381636946246,
+   "SEC_total_Wh_mg": 1082.7638759402391
+  },
+  {
+   "Glucose_g": 1.589783870097059,
+   "CuSO4_g": 0.06640682580548568,
+   "Time_min": 120.38747422254892,
+   "Photodeg_pct": 21.423203361583667,
+   "EEO_kWh_m3_order": 3269.2977676151654,
+   "SEC_total_Wh_mg": 817.2344917131015
+  },
+  {
+   "Glucose_g": 1.589568435653014,
+   "CuSO4_g": 0.06641661599514838,
+   "Time_min": 124.2075151379037,
+   "Photodeg_pct": 21.939718079478304,
+   "EEO_kWh_m3_order": 3497.853393985589,
+   "SEC_total_Wh_mg": 866.9350690002689
+  },
+  {
+   "Glucose_g": 1.589804179892605,
+   "CuSO4_g": 0.06640730528379381,
+   "Time_min": 121.8620521521548,
+   "Photodeg_pct": 21.63541399577211,
+   "EEO_kWh_m3_order": 3355.6889633658693,
+   "SEC_total_Wh_mg": 835.9941059355972
+  },
+  {
+   "Glucose_g": 1.5885449764023352,
+   "CuSO4_g": 0.06640752818368299,
+   "Time_min": 126.1170540390013,
+   "Photodeg_pct": 22.157890271290714,
+   "EEO_kWh_m3_order": 3622.2338962524354,
+   "SEC_total_Wh_mg": 893.9679152998965
+  },
+  {
+   "Glucose_g": 1.589081934527666,
+   "CuSO4_g": 0.06641714978861621,
+   "Time_min": 131.5354546390865,
+   "Photodeg_pct": 22.619566938578767,
+   "EEO_kWh_m3_order": 3978.6777502811697,
+   "SEC_total_Wh_mg": 972.0611078515052
+  },
+  {
+   "Glucose_g": 1.5898038156453578,
+   "CuSO4_g": 0.06640730528379381,
+   "Time_min": 120.97754979268394,
+   "Photodeg_pct": 21.510081454180323,
+   "EEO_kWh_m3_order": 3303.554184800407,
+   "SEC_total_Wh_mg": 824.6703874639175
+  },
+  {
+   "Glucose_g": 1.5450194123829888,
+   "CuSO4_g": 0.06538344696219789,
+   "Time_min": 139.4554584757075,
+   "Photodeg_pct": 22.91920465245473,
+   "EEO_kWh_m3_order": 4894.148783900335,
+   "SEC_total_Wh_mg": 1165.8612466542193
+  },
+  {
+   "Glucose_g": 1.5508518051640399,
+   "CuSO4_g": 0.06562824810321902,
+   "Time_min": 139.00901938113188,
+   "Photodeg_pct": 22.91534123560752,
+   "EEO_kWh_m3_order": 4805.637794295961,
+   "SEC_total_Wh_mg": 1147.637077204597
+  },
+  {
+   "Glucose_g": 1.5897962394673382,
+   "CuSO4_g": 0.06640689669035045,
+   "Time_min": 130.72136016343703,
+   "Photodeg_pct": 22.562999503810353,
+   "EEO_kWh_m3_order": 3920.349748679724,
+   "SEC_total_Wh_mg": 959.308811198663
+  },
+  {
+   "Glucose_g": 1.5326356793420355,
+   "CuSO4_g": 0.06516385773635552,
+   "Time_min": 139.7487668067182,
+   "Photodeg_pct": 22.92233587830701,
+   "EEO_kWh_m3_order": 5009.114806088815,
+   "SEC_total_Wh_mg": 1189.0888833582565
+  },
+  {
+   "Glucose_g": 1.5894949305384103,
+   "CuSO4_g": 0.06640675372803953,
+   "Time_min": 123.23578092420865,
+   "Photodeg_pct": 21.818996002758404,
+   "EEO_kWh_m3_order": 3439.331691398801,
+   "SEC_total_Wh_mg": 854.164405681827
+  },
+  {
+   "Glucose_g": 1.5895653161720933,
+   "CuSO4_g": 0.06641504015700986,
+   "Time_min": 125.36120070333642,
+   "Photodeg_pct": 22.073654681176357,
+   "EEO_kWh_m3_order": 3569.8274079347257,
+   "SEC_total_Wh_mg": 882.6240309980174
+  },
+  {
+   "Glucose_g": 1.5895631662067011,
+   "CuSO4_g": 0.06640722673422174,
+   "Time_min": 120.53809164627565,
+   "Photodeg_pct": 21.44621635312976,
+   "EEO_kWh_m3_order": 3278.7142553984922,
+   "SEC_total_Wh_mg": 819.2656305831288
+  },
+  {
+   "Glucose_g": 1.5895436757151882,
+   "CuSO4_g": 0.06640720975660766,
+   "Time_min": 120.00001883544026,
+   "Photodeg_pct": 21.365331677132303,
+   "EEO_kWh_m3_order": 3247.6509449595433,
+   "SEC_total_Wh_mg": 812.5274886493644
+  },
+  {
+   "Glucose_g": 1.5887286795941864,
+   "CuSO4_g": 0.06640435663375016,
+   "Time_min": 126.40548045800364,
+   "Photodeg_pct": 22.1876961211264,
+   "EEO_kWh_m3_order": 3640.1484627830896,
+   "SEC_total_Wh_mg": 897.8865727877646
+  },
+  {
+   "Glucose_g": 1.589804179892605,
+   "CuSO4_g": 0.0664073857611159,
+   "Time_min": 120.24316745501184,
+   "Photodeg_pct": 21.40150673742472,
+   "EEO_kWh_m3_order": 3260.8437844244795,
+   "SEC_total_Wh_mg": 815.4031116385329
+  },
+  {
+   "Glucose_g": 1.5895646341183018,
+   "CuSO4_g": 0.0664100318057199,
+   "Time_min": 127.64375936177765,
+   "Photodeg_pct": 22.30883421115953,
+   "EEO_kWh_m3_order": 3716.2077732144935,
+   "SEC_total_Wh_mg": 914.5865004044038
+  },
+  {
+   "Glucose_g": 1.5895546441383035,
+   "CuSO4_g": 0.06640601286427394,
+   "Time_min": 133.58291747181386,
+   "Photodeg_pct": 22.73557625158522,
+   "EEO_kWh_m3_order": 4120.462673066919,
+   "SEC_total_Wh_mg": 1003.2276599179195
+  },
+  {
+   "Glucose_g": 1.5895561542366305,
+   "CuSO4_g": 0.06640676383503452,
+   "Time_min": 123.1986085340299,
+   "Photodeg_pct": 21.81409530802218,
+   "EEO_kWh_m3_order": 3436.8537682961723,
+   "SEC_total_Wh_mg": 853.6291504988666
+  },
+  {
+   "Glucose_g": 1.5896555124144267,
+   "CuSO4_g": 0.06640617410103736,
+   "Time_min": 134.2633482963039,
+   "Photodeg_pct": 22.76723786269406,
+   "EEO_kWh_m3_order": 4168.423784387724,
+   "SEC_total_Wh_mg": 1013.786403302111
+  },
+  {
+   "Glucose_g": 1.5669271941957352,
+   "CuSO4_g": 0.06610947073217367,
+   "Time_min": 139.03555135145348,
+   "Photodeg_pct": 22.907504468006902,
+   "EEO_kWh_m3_order": 4677.7630874054175,
+   "SEC_total_Wh_mg": 1122.5188252275404
+  },
+  {
+   "Glucose_g": 1.5235965461110486,
+   "CuSO4_g": 0.06466712970338889,
+   "Time_min": 139.33393152862777,
+   "Photodeg_pct": 22.923623097119812,
+   "EEO_kWh_m3_order": 5059.6659368555565,
+   "SEC_total_Wh_mg": 1198.170885167736
+  },
+  {
+   "Glucose_g": 1.5898057375257026,
+   "CuSO4_g": 0.06640676577301904,
+   "Time_min": 137.56451810165416,
+   "Photodeg_pct": 22.87145449691278,
+   "EEO_kWh_m3_order": 4409.190837885763,
+   "SEC_total_Wh_mg": 1066.8407160023478
+  },
+  {
+   "Glucose_g": 1.5897960100557713,
+   "CuSO4_g": 0.06640703718915054,
+   "Time_min": 137.01108857337488,
+   "Photodeg_pct": 22.85973658975372,
+   "EEO_kWh_m3_order": 4367.975547659705,
+   "SEC_total_Wh_mg": 1057.7516840053884
+  },
+  {
+   "Glucose_g": 1.5889518537516722,
+   "CuSO4_g": 0.0664321505135987,
+   "Time_min": 132.10053669460726,
+   "Photodeg_pct": 22.655327882790605,
+   "EEO_kWh_m3_order": 4017.279958116223,
+   "SEC_total_Wh_mg": 980.5556155631175
+  },
+  {
+   "Glucose_g": 1.589824215413879,
+   "CuSO4_g": 0.06640672068957708,
+   "Time_min": 135.3775545688247,
+   "Photodeg_pct": 22.811514729892767,
+   "EEO_kWh_m3_order": 4247.860756750305,
+   "SEC_total_Wh_mg": 1031.2891729511898
+  },
+  {
+   "Glucose_g": 1.5714023874307954,
+   "CuSO4_g": 0.0664353565918107,
+   "Time_min": 139.0332688002048,
+   "Photodeg_pct": 22.904357916887953,
+   "EEO_kWh_m3_order": 4628.087209749685,
+   "SEC_total_Wh_mg": 1112.8085830503483
+  },
+  {
+   "Glucose_g": 1.5895705601592638,
+   "CuSO4_g": 0.06640676383503452,
+   "Time_min": 137.56451810165416,
+   "Photodeg_pct": 22.871693874899655,
+   "EEO_kWh_m3_order": 4410.492144438123,
+   "SEC_total_Wh_mg": 1067.099832181187
+  },
+  {
+   "Glucose_g": 1.588640827077486,
+   "CuSO4_g": 0.06644247461302201,
+   "Time_min": 132.6862567136738,
+   "Photodeg_pct": 22.68999658006193,
+   "EEO_kWh_m3_order": 4058.911376558241,
+   "SEC_total_Wh_mg": 989.6902687615715
+  },
+  {
+   "Glucose_g": 1.5652207811142531,
+   "CuSO4_g": 0.0661110673746931,
+   "Time_min": 139.10532696862165,
+   "Photodeg_pct": 22.908813407490467,
+   "EEO_kWh_m3_order": 4693.617752658651,
+   "SEC_total_Wh_mg": 1125.7878819285686
+  },
+  {
+   "Glucose_g": 1.589562803584847,
+   "CuSO4_g": 0.06640623728897392,
+   "Time_min": 126.45690059390046,
+   "Photodeg_pct": 22.191371741725458,
+   "EEO_kWh_m3_order": 3639.9397980517,
+   "SEC_total_Wh_mg": 897.9096872970174
+  },
+  {
+   "Glucose_g": 1.5895546441383035,
+   "CuSO4_g": 0.06640740293934336,
+   "Time_min": 123.46785062619088,
+   "Photodeg_pct": 21.84834586136922,
+   "EEO_kWh_m3_order": 3453.1980472867,
+   "SEC_total_Wh_mg": 857.1882347038033
+  },
+  {
+   "Glucose_g": 1.5897977281867484,
+   "CuSO4_g": 0.0664078289828465,
+   "Time_min": 125.30328635586623,
+   "Photodeg_pct": 22.06653530639827,
+   "EEO_kWh_m3_order": 3565.8246538090734,
+   "SEC_total_Wh_mg": 881.7521476386441
+  },
+  {
+   "Glucose_g": 1.5579904747794664,
+   "CuSO4_g": 0.06640752818368299,
+   "Time_min": 139.3077506912815,
+   "Photodeg_pct": 22.91111759380268,
+   "EEO_kWh_m3_order": 4737.709348692756,
+   "SEC_total_Wh_mg": 1135.0265812104878
+  }
+ ],
+ "bbd_raw": [
+  {
+   "Run": 1,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.02,
+   "Time_min": 150,
+   "Ai": 0.571,
+   "A0": 0.498,
+   "A60": 0.419
+  },
+  {
+   "Run": 2,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.02,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.514,
+   "A60": 0.492
+  },
+  {
+   "Run": 3,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.08,
+   "Time_min": 150,
+   "Ai": 0.571,
+   "A0": 0.474,
+   "A60": 0.447
+  },
+  {
+   "Run": 4,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.571,
+   "A0": 0.475,
+   "A60": 0.402
+  },
+  {
+   "Run": 5,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.05,
+   "Time_min": 120,
+   "Ai": 0.571,
+   "A0": 0.464,
+   "A60": 0.398
+  },
+  {
+   "Run": 6,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 120,
+   "Ai": 0.571,
+   "A0": 0.529,
+   "A60": 0.457
+  },
+  {
+   "Run": 7,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.05,
+   "Time_min": 180,
+   "Ai": 0.571,
+   "A0": 0.463,
+   "A60": 0.421
+  },
+  {
+   "Run": 8,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 180,
+   "Ai": 0.571,
+   "A0": 0.499,
+   "A60": 0.416
+  },
+  {
+   "Run": 9,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.02,
+   "Time_min": 120,
+   "Ai": 0.627,
+   "A0": 0.527,
+   "A60": 0.451
+  },
+  {
+   "Run": 10,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.08,
+   "Time_min": 120,
+   "Ai": 0.627,
+   "A0": 0.55,
+   "A60": 0.434
+  },
+  {
+   "Run": 11,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.02,
+   "Time_min": 180,
+   "Ai": 0.627,
+   "A0": 0.541,
+   "A60": 0.501
+  },
+  {
+   "Run": 12,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.08,
+   "Time_min": 180,
+   "Ai": 0.627,
+   "A0": 0.551,
+   "A60": 0.498
+  },
+  {
+   "Run": 13,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.511,
+   "A60": 0.397
+  },
+  {
+   "Run": 14,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.513,
+   "A60": 0.399
+  },
+  {
+   "Run": 15,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Ai": 0.627,
+   "A0": 0.514,
+   "A60": 0.401
+  }
+ ],
+ "validation_raw": [
+  {
+   "Set": "V1",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.481,
+   "A60": 0.371
+  },
+  {
+   "Set": "V1",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.48,
+   "A60": 0.37
+  },
+  {
+   "Set": "V1",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.479,
+   "A60": 0.369
+  },
+  {
+   "Set": "V2",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.4812,
+   "A60": 0.368
+  },
+  {
+   "Set": "V2",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.4799,
+   "A60": 0.375
+  },
+  {
+   "Set": "V2",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.483,
+   "A60": 0.378
+  },
+  {
+   "Set": "V3",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.481,
+   "A60": 0.376
+  },
+  {
+   "Set": "V3",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.482,
+   "A60": 0.38
+  },
+  {
+   "Set": "V3",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.48,
+   "A60": 0.375
+  },
+  {
+   "Set": "V4",
+   "Glucose_g": 1.47,
+   "CuSO4_g": 0.072,
+   "Time_min": 135,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.506,
+   "A60": 0.432
+  },
+  {
+   "Set": "V4",
+   "Glucose_g": 1.47,
+   "CuSO4_g": 0.072,
+   "Time_min": 135,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.505,
+   "A60": 0.432
+  },
+  {
+   "Set": "V4",
+   "Glucose_g": 1.47,
+   "CuSO4_g": 0.072,
+   "Time_min": 135,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.505,
+   "A60": 0.432
+  },
+  {
+   "Set": "V5",
+   "Glucose_g": 1.67,
+   "CuSO4_g": 0.072,
+   "Time_min": 145,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.476,
+   "A60": 0.406
+  },
+  {
+   "Set": "V5",
+   "Glucose_g": 1.67,
+   "CuSO4_g": 0.072,
+   "Time_min": 145,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.475,
+   "A60": 0.406
+  },
+  {
+   "Set": "V5",
+   "Glucose_g": 1.67,
+   "CuSO4_g": 0.072,
+   "Time_min": 145,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.477,
+   "A60": 0.406
+  },
+  {
+   "Set": "V6",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.06,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.453,
+   "A60": 0.386
+  },
+  {
+   "Set": "V6",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.06,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.455,
+   "A60": 0.387
+  },
+  {
+   "Set": "V6",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.06,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.455,
+   "A60": 0.386
+  },
+  {
+   "Set": "V7",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.08,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.587,
+   "A0": 0.437,
+   "A60": 0.37
+  },
+  {
+   "Set": "V7",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.08,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.587,
+   "A0": 0.439,
+   "A60": 0.371
+  },
+  {
+   "Set": "V7",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.08,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.587,
+   "A0": 0.436,
+   "A60": 0.372
+  }
+ ],
+ "kinetics_raw": [
+  {
+   "Condition": "K1",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.542,
+   "A0": 0.466,
+   "A15": 0.453,
+   "A30": 0.427,
+   "A45": 0.407,
+   "A60": 0.379,
+   "Method": "Heat / no light"
+  },
+  {
+   "Condition": "K1",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.542333,
+   "A0": 0.467,
+   "A15": 0.45,
+   "A30": 0.425,
+   "A45": 0.408,
+   "A60": 0.378,
+   "Method": "Heat / no light"
+  },
+  {
+   "Condition": "K1",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.542333,
+   "A0": 0.465,
+   "A15": 0.45,
+   "A30": 0.424,
+   "A45": 0.409,
+   "A60": 0.378,
+   "Method": "Heat / no light"
+  },
+  {
+   "Condition": "K2",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.542333,
+   "A0": 0.491,
+   "A15": 0.46,
+   "A30": 0.432,
+   "A45": 0.419,
+   "A60": 0.4,
+   "Method": "Light / no added heat"
+  },
+  {
+   "Condition": "K2",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.542333,
+   "A0": 0.49,
+   "A15": 0.459,
+   "A30": 0.432,
+   "A45": 0.418,
+   "A60": 0.4,
+   "Method": "Light / no added heat"
+  },
+  {
+   "Condition": "K2",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.542333,
+   "A0": 0.489,
+   "A15": 0.459,
+   "A30": 0.433,
+   "A45": 0.417,
+   "A60": 0.4,
+   "Method": "Light / no added heat"
+  },
+  {
+   "Condition": "K3",
+   "Glucose_g": 0.0,
+   "CuSO4_g": 0.0,
+   "Time_min": 0,
+   "Rep": 1,
+   "Ai": 0.542333,
+   "A0": 0.473,
+   "A15": 0.451,
+   "A30": 0.438,
+   "A45": 0.416,
+   "A60": 0.407,
+   "Method": "Bare TiO2, light+heat"
+  },
+  {
+   "Condition": "K3",
+   "Glucose_g": 0.0,
+   "CuSO4_g": 0.0,
+   "Time_min": 0,
+   "Rep": 2,
+   "Ai": 0.542333,
+   "A0": 0.474,
+   "A15": 0.45,
+   "A30": 0.438,
+   "A45": 0.417,
+   "A60": 0.409,
+   "Method": "Bare TiO2, light+heat"
+  },
+  {
+   "Condition": "K3",
+   "Glucose_g": 0.0,
+   "CuSO4_g": 0.0,
+   "Time_min": 0,
+   "Rep": 3,
+   "Ai": 0.542333,
+   "A0": 0.475,
+   "A15": 0.459,
+   "A30": 0.438,
+   "A45": 0.417,
+   "A60": 0.407,
+   "Method": "Bare TiO2, light+heat"
+  },
+  {
+   "Condition": "K4",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.0,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.542333,
+   "A0": 0.461,
+   "A15": 0.445,
+   "A30": 0.421,
+   "A45": 0.403,
+   "A60": 0.377,
+   "Method": "Carbon-only, light+heat"
+  },
+  {
+   "Condition": "K4",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.0,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.542333,
+   "A0": 0.462,
+   "A15": 0.444,
+   "A30": 0.42,
+   "A45": 0.405,
+   "A60": 0.37,
+   "Method": "Carbon-only, light+heat"
+  },
+  {
+   "Condition": "K4",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.0,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.542333,
+   "A0": 0.462,
+   "A15": 0.444,
+   "A30": 0.42,
+   "A45": 0.405,
+   "A60": 0.375,
+   "Method": "Carbon-only, light+heat"
+  },
+  {
+   "Condition": "K5",
+   "Glucose_g": 0.0,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.542333,
+   "A0": 0.477,
+   "A15": 0.456,
+   "A30": 0.435,
+   "A45": 0.415,
+   "A60": 0.384,
+   "Method": "Cu-only, light+heat"
+  },
+  {
+   "Condition": "K5",
+   "Glucose_g": 0.0,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.542333,
+   "A0": 0.476,
+   "A15": 0.456,
+   "A30": 0.436,
+   "A45": 0.415,
+   "A60": 0.388,
+   "Method": "Cu-only, light+heat"
+  },
+  {
+   "Condition": "K5",
+   "Glucose_g": 0.0,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.542333,
+   "A0": 0.478,
+   "A15": 0.456,
+   "A30": 0.436,
+   "A45": 0.416,
+   "A60": 0.388,
+   "Method": "Cu-only, light+heat"
+  },
+  {
+   "Condition": "K6",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 1,
+   "Ai": 0.542333,
+   "A0": 0.481,
+   "A15": 0.464,
+   "A30": 0.442,
+   "A45": 0.407,
+   "A60": 0.372,
+   "Method": "Full Cu+C, light+heat"
+  },
+  {
+   "Condition": "K6",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 2,
+   "Ai": 0.542333,
+   "A0": 0.482,
+   "A15": 0.464,
+   "A30": 0.441,
+   "A45": 0.407,
+   "A60": 0.372,
+   "Method": "Full Cu+C, light+heat"
+  },
+  {
+   "Condition": "K6",
+   "Glucose_g": 1.57,
+   "CuSO4_g": 0.072,
+   "Time_min": 140,
+   "Rep": 3,
+   "Ai": 0.542333,
+   "A0": 0.482,
+   "A15": 0.464,
+   "A30": 0.441,
+   "A45": 0.408,
+   "A60": 0.375,
+   "Method": "Full Cu+C, light+heat"
+  }
+ ],
+ "characterization": {
+  "runs": [
+   {
+    "run": 1,
+    "lambda_onset_nm": 392,
+    "Eg_DRS_eV": 3.17,
+    "Eg_indirect_eV": 3.22,
+    "L": 95.4441,
+    "a": -1.775,
+    "b": 5.07
+   },
+   {
+    "run": 2,
+    "lambda_onset_nm": 392,
+    "Eg_DRS_eV": 3.17,
+    "Eg_indirect_eV": 3.23,
+    "L": 95.5597,
+    "a": -1.7077,
+    "b": 5.0073
+   },
+   {
+    "run": 3,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.23,
+    "L": 95.4179,
+    "a": -2.0855,
+    "b": 4.9762
+   },
+   {
+    "run": 4,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.21,
+    "L": 95.441,
+    "a": -1.906,
+    "b": 4.3872
+   },
+   {
+    "run": 5,
+    "lambda_onset_nm": 393,
+    "Eg_DRS_eV": 3.16,
+    "Eg_indirect_eV": 3.23,
+    "L": 94.7311,
+    "a": -1.9011,
+    "b": 5.7563
+   },
+   {
+    "run": 6,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.21,
+    "L": 94.8458,
+    "a": -1.5652,
+    "b": 4.8152
+   },
+   {
+    "run": 7,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.21,
+    "L": 95.2936,
+    "a": -1.8236,
+    "b": 4.8505
+   },
+   {
+    "run": 8,
+    "lambda_onset_nm": 393,
+    "Eg_DRS_eV": 3.16,
+    "Eg_indirect_eV": 3.22,
+    "L": 95.776,
+    "a": -1.7211,
+    "b": 4.4663
+   },
+   {
+    "run": 9,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.22,
+    "L": 95.1614,
+    "a": -1.3398,
+    "b": 4.6459
+   },
+   {
+    "run": 10,
+    "lambda_onset_nm": 392,
+    "Eg_DRS_eV": 3.17,
+    "Eg_indirect_eV": 3.21,
+    "L": 94.341,
+    "a": -1.6346,
+    "b": 4.6322
+   },
+   {
+    "run": 11,
+    "lambda_onset_nm": 390,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.23,
+    "L": 95.928,
+    "a": -1.4966,
+    "b": 5.2558
+   },
+   {
+    "run": 12,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.23,
+    "L": 95.8429,
+    "a": -1.7807,
+    "b": 4.3405
+   },
+   {
+    "run": 13,
+    "lambda_onset_nm": 391,
+    "Eg_DRS_eV": 3.18,
+    "Eg_indirect_eV": 3.22,
+    "L": 96.138,
+    "a": -1.9544,
+    "b": 3.8637
+   },
+   {
+    "run": 14,
+    "lambda_onset_nm": 392,
+    "Eg_DRS_eV": 3.17,
+    "Eg_indirect_eV": 3.22,
+    "L": 95.8839,
+    "a": -1.9043,
+    "b": 4.2241
+   },
+   {
+    "run": 15,
+    "lambda_onset_nm": 392,
+    "Eg_DRS_eV": 3.17,
+    "Eg_indirect_eV": 3.22,
+    "L": 95.8153,
+    "a": -1.9871,
+    "b": 4.6895
+   }
+  ],
+  "cuso4_reference": {
+   "L": 65.1017,
+   "a": -16.9113,
+   "b": -33.853
+  },
+  "summary": {
+   "Eg_DRS_mean": 3.174,
+   "Eg_DRS_sd": 0.007,
+   "Eg_DRS_min": 3.16,
+   "Eg_DRS_max": 3.18,
+   "Eg_indirect_mean": 3.221,
+   "Eg_indirect_sd": 0.008,
+   "Eg_indirect_min": 3.21,
+   "Eg_indirect_max": 3.23,
+   "L_mean": 95.44,
+   "L_sd": 0.48,
+   "a_mean": -1.772,
+   "a_sd": 0.194,
+   "b_mean": 4.732,
+   "b_sd": 0.445
+  }
+ },
+ "antibacterial": {
+  "S. aureus": {
+   "time_min": [
+    0,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60
+   ],
+   "mean_count_10^7dil": [
+    76.0,
+    74.0,
+    67.0,
+    66.5,
+    66.0,
+    62.5,
+    57.5
+   ],
+   "sd_count_10^7dil": [
+    22.627416997969522,
+    1.4142135623730951,
+    1.4142135623730951,
+    13.435028842544403,
+    7.0710678118654755,
+    4.949747468305833,
+    4.949747468305833
+   ],
+   "cfu_per_mL_mean": [
+    7600000000.0,
+    7400000000.0,
+    6700000000.0,
+    6650000000.0,
+    6600000000.0,
+    6250000000.0,
+    5750000000.0
+   ],
+   "cfu_per_mL_sd": [
+    2262741699.7969522,
+    141421356.23730952,
+    141421356.23730952,
+    1343502884.2544403,
+    707106781.1865475,
+    494974746.8305833,
+    494974746.8305833
+   ],
+   "log10_reduction": [
+    0.0,
+    0.011581872549815138,
+    0.0547387895799649,
+    0.05799194697768673,
+    0.06126965673892271,
+    0.08493357493671612,
+    0.12114574759116084
+   ],
+   "pct_inactivation": [
+    0.0,
+    2.631578947368418,
+    11.842105263157897,
+    12.5,
+    13.157894736842103,
+    17.763157894736846,
+    24.342105263157897
+   ],
+   "k_inact_min-1": 0.004237985529218565,
+   "k_inact_se": 0.0014616625478736803,
+   "k_inact_R2": 0.45671907900765785,
+   "final_log10_reduction_60min": 0.12114574759116084,
+   "final_pct_inactivation_60min": 24.342105263157897,
+   "N0_CFU_per_mL": 7600000000.0,
+   "corroboration_1e8dil": {
+    "mean_count_10^8dil": [
+     8.5,
+     6.5,
+     6.5,
+     5.5,
+     5.5,
+     4.5,
+     4.5
+    ],
+    "log10_reduction": [
+     0.0,
+     0.11650556907143717,
+     0.11650556907143717,
+     0.18905623622004888,
+     0.18905623622004888,
+     0.27620641193894907,
+     0.27620641193894907
+    ],
+    "pct_inactivation": [
+     0.0,
+     23.529411764705888,
+     23.529411764705888,
+     35.29411764705882,
+     35.29411764705882,
+     47.05882352941176,
+     47.05882352941176
+    ],
+    "k_inact_min-1": 0.008171621991199673,
+    "k_inact_se": 0.0032554801955053453,
+    "k_inact_R2": 0.3865281133366894,
+    "final_log10_reduction_60min": 0.27620641193894907,
+    "final_pct_inactivation_60min": 47.05882352941176
+   }
+  },
+  "E. coli": {
+   "time_min": [
+    0,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60
+   ],
+   "mean_count_10^7dil": [
+    148.0,
+    145.0,
+    142.0,
+    136.5,
+    135.5,
+    134.5,
+    125.5
+   ],
+   "sd_count_10^7dil": [
+    14.142135623730951,
+    0.0,
+    8.48528137423857,
+    23.33452377915607,
+    4.949747468305833,
+    10.606601717798213,
+    7.7781745930520225
+   ],
+   "cfu_per_mL_mean": [
+    14800000000.0,
+    14500000000.0,
+    14200000000.0,
+    13650000000.0,
+    13550000000.0,
+    13450000000.0,
+    12550000000.0
+   ],
+   "cfu_per_mL_sd": [
+    1414213562.373095,
+    0.0,
+    848528137.423857,
+    2333452377.9156065,
+    494974746.8305833,
+    1060660171.7798213,
+    777817459.3052021
+   ],
+   "log10_reduction": [
+    0.0,
+    0.008893713159982513,
+    0.01797337101190088,
+    0.03512906401818251,
+    0.038322420184532885,
+    0.0415394310565306,
+    0.07161798957790047
+   ],
+   "pct_inactivation": [
+    0.0,
+    2.0270270270270285,
+    4.054054054054057,
+    7.770270270270274,
+    8.445945945945944,
+    9.121621621621623,
+    15.202702702702698
+   ],
+   "k_inact_min-1": 0.002548721355811601,
+   "k_inact_se": 0.0011606077672363462,
+   "k_inact_R2": 0.32535075006966896,
+   "final_log10_reduction_60min": 0.07161798957790047,
+   "final_pct_inactivation_60min": 15.202702702702698,
+   "N0_CFU_per_mL": 14800000000.0,
+   "corroboration_1e8dil": {
+    "mean_count_10^8dil": [
+     14.5,
+     14.0,
+     13.0,
+     13.0,
+     11.0,
+     12.0,
+     10.5
+    ],
+    "log10_reduction": [
+     0.0,
+     0.015239966556736905,
+     0.047424649928138135,
+     0.047424649928138135,
+     0.11997531707674983,
+     0.08218675618735004,
+     0.1401787031650368
+    ],
+    "pct_inactivation": [
+     0.0,
+     3.4482758620689613,
+     10.344827586206895,
+     10.344827586206895,
+     24.13793103448276,
+     17.24137931034483,
+     27.586206896551722
+    ],
+    "k_inact_min-1": 0.005540010924419357,
+    "k_inact_se": 0.003497880924368165,
+    "k_inact_R2": 0.2005425578326155,
+    "final_log10_reduction_60min": 0.1401787031650368,
+    "final_pct_inactivation_60min": 27.586206896551722
+   }
+  }
+ },
+ "antibacterial_raw": {
+  "time_min": [
+   0,
+   10,
+   20,
+   30,
+   40,
+   50,
+   60
+  ],
+  "dil_1e7": {
+   "S. aureus": {
+    "rep1": [
+     60,
+     75,
+     66,
+     76,
+     61,
+     59,
+     54
+    ],
+    "rep2": [
+     92,
+     73,
+     68,
+     57,
+     71,
+     66,
+     61
+    ]
+   },
+   "E. coli": {
+    "rep1": [
+     158,
+     145,
+     136,
+     153,
+     132,
+     127,
+     131
+    ],
+    "rep2": [
+     138,
+     145,
+     148,
+     120,
+     139,
+     142,
+     120
+    ]
+   }
+  },
+  "dil_1e8": {
+   "S. aureus": {
+    "rep1": [
+     9,
+     6,
+     5,
+     7,
+     5,
+     4,
+     4
+    ],
+    "rep2": [
+     8,
+     7,
+     8,
+     4,
+     6,
+     5,
+     5
+    ]
+   },
+   "E. coli": {
+    "rep1": [
+     14,
+     17,
+     15,
+     13,
+     12,
+     15,
+     8
+    ],
+    "rep2": [
+     15,
+     11,
+     11,
+     13,
+     10,
+     9,
+     13
+    ]
+   }
+  }
+ },
+ "synergy_analysis": {
+  "photodegradation_pct": {
+   "baseline_K3": 13.9941193382,
+   "carbon_excess": 4.994496288200001,
+   "cu_excess": 4.943448057399998,
+   "combined_excess": 8.5665038448,
+   "additive_expectation": 9.937944345599998,
+   "interaction_term": -1.3714405007999986,
+   "se": 0.6310315904872342,
+   "t": -2.1733309734003607,
+   "df": 4.542543551772802,
+   "p_value": 0.08729728632799683,
+   "verdict": "not statistically distinguishable from a purely additive (non-interacting) combination"
+  },
+  "k_regression_min-1": {
+   "baseline_K3": 0.002572132,
+   "carbon_excess": 0.0008650234000000001,
+   "cu_excess": 0.0008501342999999999,
+   "combined_excess": 0.0017052983000000002,
+   "additive_expectation": 0.0017151577,
+   "interaction_term": -9.859399999999786e-06,
+   "se": 0.00011512406848913045,
+   "t": -0.08564151814119278,
+   "df": 6.753552774997659,
+   "p_value": 0.9342347861044649,
+   "verdict": "not statistically distinguishable from a purely additive (non-interacting) combination"
+  }
+ },
+ "new_optimum_condition": {
+  "Glucose_g": 1.57,
+  "CuSO4_g": 0.072,
+  "Time_min": 140
+ },
+ "new_optimum_model_prediction": {
+  "Photodeg_pct": 22.70928805917558,
+  "k_app_min-1": 0.004249482792250506,
+  "AQE_pct": 0.0018473757975448933,
+  "EEO_kWh_m3_order": 4695.8977697220325,
+  "SEC_total_Wh_mg": 1129.6786760374484
+ },
+ "pooled_v1v3_recovery_vs_center_pct": 100.59702682369162,
+ "pooled_v1v3_recovery_vs_model_pct": 98.21674872642002,
+ "pooled_v1v3_welch_t_vs_center": -0.4776429779308649,
+ "pooled_v1v3_p_vs_center": 0.6435496615204948,
+ "ppfd_umol_m2_s": 1361.706,
+ "opt_summary_sphere": [
+  {
+   "Method": "Desirability (DE)",
+   "Glucose_g": 1.5710425588,
+   "CuSO4_g": 0.0738892092,
+   "Time_min": 140.2010090048,
+   "Photodeg_pct": 22.5640565865,
+   "EEO_kWh_m3_order": 4848.2808858411,
+   "SEC_total_Wh_mg": 3246.868100932
+  },
+  {
+   "Method": "Weighted sum (equal)",
+   "Glucose_g": 1.5262098125,
+   "CuSO4_g": 0.0572032548,
+   "Time_min": 137.1655986586,
+   "Photodeg_pct": 22.5583918107,
+   "EEO_kWh_m3_order": 5962.8510207411,
+   "SEC_total_Wh_mg": 3728.8974420263
+  },
+  {
+   "Method": "Tchebycheff",
+   "Glucose_g": 1.5945308897,
+   "CuSO4_g": 0.0622137048,
+   "Time_min": 133.5632374007,
+   "Photodeg_pct": 22.5852654034,
+   "EEO_kWh_m3_order": 4638.5693212285,
+   "SEC_total_Wh_mg": 2787.8379800564
+  },
+  {
+   "Method": "NSGA-II (best degradation)",
+   "Glucose_g": 1.5179171877,
+   "CuSO4_g": 0.0645416032,
+   "Time_min": 139.5253743305,
+   "Photodeg_pct": 22.924262563,
+   "EEO_kWh_m3_order": 5118.4356351483,
+   "SEC_total_Wh_mg": 3344.842915483
+  },
+  {
+   "Method": "NSGA-II (best EEO)",
+   "Glucose_g": 1.9999644552,
+   "CuSO4_g": 0.0797322786,
+   "Time_min": 146.0121063304,
+   "Photodeg_pct": 21.6856695333,
+   "EEO_kWh_m3_order": 617.2291368611,
+   "SEC_total_Wh_mg": 646.943758817
+  }
+ ],
+ "pareto_sphere": [
+  {
+   "Glucose_g": 1.5179171877398516,
+   "CuSO4_g": 0.06454160324033488,
+   "Time_min": 139.52537433051785,
+   "Photodeg_pct": 22.924262562965673,
+   "EEO_kWh_m3_order": 5118.435635148308,
+   "SEC_total_Wh_mg": 3344.8429154830433
+  },
+  {
+   "Glucose_g": 1.994827961675647,
+   "CuSO4_g": 0.07792385010379274,
+   "Time_min": 138.48889260405275,
+   "Photodeg_pct": 21.69518190870684,
+   "EEO_kWh_m3_order": 817.1874064072567,
+   "SEC_total_Wh_mg": 508.90455411007076
+  },
+  {
+   "Glucose_g": 1.9999644551585392,
+   "CuSO4_g": 0.07973227861494823,
+   "Time_min": 146.0121063303724,
+   "Photodeg_pct": 21.685669533323093,
+   "EEO_kWh_m3_order": 617.2291368610586,
+   "SEC_total_Wh_mg": 646.9437588169617
+  },
+  {
+   "Glucose_g": 1.5084071251190538,
+   "CuSO4_g": 0.06439654961667322,
+   "Time_min": 138.89599892921225,
+   "Photodeg_pct": 22.923147834849388,
+   "EEO_kWh_m3_order": 5129.358308823311,
+   "SEC_total_Wh_mg": 3328.722722461315
+  },
+  {
+   "Glucose_g": 1.7536483772997156,
+   "CuSO4_g": 0.07294065986633082,
+   "Time_min": 140.06207119600367,
+   "Photodeg_pct": 22.613108565524175,
+   "EEO_kWh_m3_order": 2993.2403408336577,
+   "SEC_total_Wh_mg": 2013.7071522656988
+  },
+  {
+   "Glucose_g": 1.6066088613720035,
+   "CuSO4_g": 0.06775391283621,
+   "Time_min": 138.45654561938798,
+   "Photodeg_pct": 22.868403975754127,
+   "EEO_kWh_m3_order": 4275.2269835101115,
+   "SEC_total_Wh_mg": 2774.517963290583
+  },
+  {
+   "Glucose_g": 1.6115534510816167,
+   "CuSO4_g": 0.06818982797725166,
+   "Time_min": 137.98757530442148,
+   "Photodeg_pct": 22.85430780323402,
+   "EEO_kWh_m3_order": 4181.759604320745,
+   "SEC_total_Wh_mg": 2700.8757440132417
+  },
+  {
+   "Glucose_g": 1.53274675482101,
+   "CuSO4_g": 0.06555759339446521,
+   "Time_min": 138.0112857040061,
+   "Photodeg_pct": 22.912071650912008,
+   "EEO_kWh_m3_order": 4839.517206911307,
+   "SEC_total_Wh_mg": 3115.9501944660024
+  },
+  {
+   "Glucose_g": 1.5238828775175028,
+   "CuSO4_g": 0.06515357167087997,
+   "Time_min": 139.40616720236008,
+   "Photodeg_pct": 22.923001097646125,
+   "EEO_kWh_m3_order": 5035.639030732399,
+   "SEC_total_Wh_mg": 3290.835612714617
+  },
+  {
+   "Glucose_g": 1.5293902645739146,
+   "CuSO4_g": 0.06551480873804148,
+   "Time_min": 138.89599892921225,
+   "Photodeg_pct": 22.91977701736771,
+   "EEO_kWh_m3_order": 4937.7502905769925,
+   "SEC_total_Wh_mg": 3211.1136773209755
+  },
+  {
+   "Glucose_g": 1.7458589762978707,
+   "CuSO4_g": 0.07294065986633082,
+   "Time_min": 137.93688496086656,
+   "Photodeg_pct": 22.596757486653196,
+   "EEO_kWh_m3_order": 2942.175918545314,
+   "SEC_total_Wh_mg": 1912.8096604314846
+  },
+  {
+   "Glucose_g": 1.794356069941046,
+   "CuSO4_g": 0.07479679287780365,
+   "Time_min": 138.11154980710927,
+   "Photodeg_pct": 22.455811227124673,
+   "EEO_kWh_m3_order": 2460.2531233438094,
+   "SEC_total_Wh_mg": 1611.9154921734946
+  },
+  {
+   "Glucose_g": 1.7134553662028196,
+   "CuSO4_g": 0.07283078177456291,
+   "Time_min": 137.7521628794804,
+   "Photodeg_pct": 22.64877693769953,
+   "EEO_kWh_m3_order": 3183.1342116112396,
+   "SEC_total_Wh_mg": 2069.7937372464166
+  },
+  {
+   "Glucose_g": 1.5739950606919817,
+   "CuSO4_g": 0.06676071121712855,
+   "Time_min": 138.84020807523044,
+   "Photodeg_pct": 22.900198556324614,
+   "EEO_kWh_m3_order": 4576.000488635557,
+   "SEC_total_Wh_mg": 2979.382502608972
+  },
+  {
+   "Glucose_g": 1.8122492935568586,
+   "CuSO4_g": 0.07489856809079079,
+   "Time_min": 139.05278993714802,
+   "Photodeg_pct": 22.430160034369155,
+   "EEO_kWh_m3_order": 2358.680882039555,
+   "SEC_total_Wh_mg": 1571.3482270024733
+  },
+  {
+   "Glucose_g": 1.6079613551565162,
+   "CuSO4_g": 0.06780091841440156,
+   "Time_min": 139.3167705203329,
+   "Photodeg_pct": 22.87467625978289,
+   "EEO_kWh_m3_order": 4326.080368416529,
+   "SEC_total_Wh_mg": 2837.7365945700844
+  },
+  {
+   "Glucose_g": 1.8539912718912073,
+   "CuSO4_g": 0.07751533229066661,
+   "Time_min": 138.54087886155276,
+   "Photodeg_pct": 22.23490050961861,
+   "EEO_kWh_m3_order": 1816.6638913538854,
+   "SEC_total_Wh_mg": 1219.0466874400659
+  },
+  {
+   "Glucose_g": 1.8436402527987967,
+   "CuSO4_g": 0.07635406013123551,
+   "Time_min": 137.83849626181066,
+   "Photodeg_pct": 22.2834875474614,
+   "EEO_kWh_m3_order": 1958.940099797022,
+   "SEC_total_Wh_mg": 1279.8915166626773
+  },
+  {
+   "Glucose_g": 1.8818517482477928,
+   "CuSO4_g": 0.07803548937809948,
+   "Time_min": 141.15198836829123,
+   "Photodeg_pct": 22.17697191229595,
+   "EEO_kWh_m3_order": 1629.1057292693802,
+   "SEC_total_Wh_mg": 1175.8869292468457
+  },
+  {
+   "Glucose_g": 1.6038116814861638,
+   "CuSO4_g": 0.06651004365757175,
+   "Time_min": 136.15024364428683,
+   "Photodeg_pct": 22.819949264824245,
+   "EEO_kWh_m3_order": 4222.741838743003,
+   "SEC_total_Wh_mg": 2650.844157363786
+  },
+  {
+   "Glucose_g": 1.8898815409292784,
+   "CuSO4_g": 0.07743194778955707,
+   "Time_min": 136.1268099896439,
+   "Photodeg_pct": 22.051975495088527,
+   "EEO_kWh_m3_order": 1474.6398373745567,
+   "SEC_total_Wh_mg": 910.9796370813453
+  },
+  {
+   "Glucose_g": 1.5339252669420995,
+   "CuSO4_g": 0.0657044949440109,
+   "Time_min": 138.6599847056645,
+   "Photodeg_pct": 22.917043415600588,
+   "EEO_kWh_m3_order": 4878.8695095808835,
+   "SEC_total_Wh_mg": 3165.516653311039
+  },
+  {
+   "Glucose_g": 1.9172285980952495,
+   "CuSO4_g": 0.0779585031693666,
+   "Time_min": 141.25726002329912,
+   "Photodeg_pct": 22.075055139971145,
+   "EEO_kWh_m3_order": 1356.564573949141,
+   "SEC_total_Wh_mg": 986.6896668136627
+  },
+  {
+   "Glucose_g": 1.9032993243615812,
+   "CuSO4_g": 0.07884556820405017,
+   "Time_min": 137.05094659669518,
+   "Photodeg_pct": 22.001817359462642,
+   "EEO_kWh_m3_order": 1275.501828383847,
+   "SEC_total_Wh_mg": 821.4774749949711
+  },
+  {
+   "Glucose_g": 1.565074671013022,
+   "CuSO4_g": 0.06577663216406826,
+   "Time_min": 138.8381175010693,
+   "Photodeg_pct": 22.907000760125943,
+   "EEO_kWh_m3_order": 4696.971134251086,
+   "SEC_total_Wh_mg": 3050.6908371643817
+  },
+  {
+   "Glucose_g": 1.8554953199870357,
+   "CuSO4_g": 0.07826984962468209,
+   "Time_min": 139.54196917215086,
+   "Photodeg_pct": 22.216405364377195,
+   "EEO_kWh_m3_order": 1794.4038771025037,
+   "SEC_total_Wh_mg": 1243.5071886458772
+  },
+  {
+   "Glucose_g": 1.565074671013022,
+   "CuSO4_g": 0.06577663216406826,
+   "Time_min": 138.89599892921225,
+   "Photodeg_pct": 22.90744834044133,
+   "EEO_kWh_m3_order": 4701.5918981132145,
+   "SEC_total_Wh_mg": 3055.7522127719553
+  },
+  {
+   "Glucose_g": 1.984370454580303,
+   "CuSO4_g": 0.07910318814962419,
+   "Time_min": 141.23827457294894,
+   "Photodeg_pct": 21.794772800757393,
+   "EEO_kWh_m3_order": 732.8760295184143,
+   "SEC_total_Wh_mg": 562.5582295472348
+  },
+  {
+   "Glucose_g": 1.8809324424002423,
+   "CuSO4_g": 0.07732179448538119,
+   "Time_min": 140.92177041249002,
+   "Photodeg_pct": 22.203517154618222,
+   "EEO_kWh_m3_order": 1690.073414399009,
+   "SEC_total_Wh_mg": 1200.1850784326502
+  },
+  {
+   "Glucose_g": 1.6388761596613652,
+   "CuSO4_g": 0.06882520960342979,
+   "Time_min": 139.6149936649267,
+   "Photodeg_pct": 22.839612744866752,
+   "EEO_kWh_m3_order": 4073.396868691979,
+   "SEC_total_Wh_mg": 2687.6619652485547
+  },
+  {
+   "Glucose_g": 1.6388761596613652,
+   "CuSO4_g": 0.06929912258834017,
+   "Time_min": 137.7704628597177,
+   "Photodeg_pct": 22.812665335331705,
+   "EEO_kWh_m3_order": 3917.6221140156727,
+   "SEC_total_Wh_mg": 2527.734032826269
+  },
+  {
+   "Glucose_g": 1.7293684170898653,
+   "CuSO4_g": 0.07127394666173974,
+   "Time_min": 139.0548927656974,
+   "Photodeg_pct": 22.67415412292389,
+   "EEO_kWh_m3_order": 3250.15628999844,
+   "SEC_total_Wh_mg": 2136.193532792165
+  },
+  {
+   "Glucose_g": 1.6653349313812202,
+   "CuSO4_g": 0.07026568772922667,
+   "Time_min": 138.77262051539657,
+   "Photodeg_pct": 22.78469328974393,
+   "EEO_kWh_m3_order": 3740.850575993156,
+   "SEC_total_Wh_mg": 2450.8199564015076
+  },
+  {
+   "Glucose_g": 1.6029810691808088,
+   "CuSO4_g": 0.06676071121712855,
+   "Time_min": 138.84020807523044,
+   "Photodeg_pct": 22.87782937581221,
+   "EEO_kWh_m3_order": 4400.796812587786,
+   "SEC_total_Wh_mg": 2860.951974338161
+  },
+  {
+   "Glucose_g": 1.9410513280320134,
+   "CuSO4_g": 0.07882425197605711,
+   "Time_min": 138.89053373026786,
+   "Photodeg_pct": 21.929666753527297,
+   "EEO_kWh_m3_order": 1028.4288742169979,
+   "SEC_total_Wh_mg": 699.5954511763323
+  },
+  {
+   "Glucose_g": 1.884290411346064,
+   "CuSO4_g": 0.07804418009771075,
+   "Time_min": 138.54087886155276,
+   "Photodeg_pct": 22.133224914036063,
+   "EEO_kWh_m3_order": 1529.7242089280644,
+   "SEC_total_Wh_mg": 1028.2444717759035
+  },
+  {
+   "Glucose_g": 1.8712497500307792,
+   "CuSO4_g": 0.07705246475605212,
+   "Time_min": 138.6624425114383,
+   "Photodeg_pct": 22.206127207483622,
+   "EEO_kWh_m3_order": 1718.0538603592015,
+   "SEC_total_Wh_mg": 1147.2175044986889
+  },
+  {
+   "Glucose_g": 1.6479585944837642,
+   "CuSO4_g": 0.06818982797725166,
+   "Time_min": 136.20093398784172,
+   "Photodeg_pct": 22.765058835432892,
+   "EEO_kWh_m3_order": 3843.2957930412977,
+   "SEC_total_Wh_mg": 2414.7802471345813
+  },
+  {
+   "Glucose_g": 1.7483182547369278,
+   "CuSO4_g": 0.07294065986633082,
+   "Time_min": 136.15024364428683,
+   "Photodeg_pct": 22.539474997688576,
+   "EEO_kWh_m3_order": 2837.505458071103,
+   "SEC_total_Wh_mg": 1788.059235389434
+  },
+  {
+   "Glucose_g": 1.9904723864167253,
+   "CuSO4_g": 0.07987249192698131,
+   "Time_min": 144.859237308428,
+   "Photodeg_pct": 21.74139103090449,
+   "EEO_kWh_m3_order": 648.1602912081607,
+   "SEC_total_Wh_mg": 634.1266078537603
+  },
+  {
+   "Glucose_g": 1.9152875306053008,
+   "CuSO4_g": 0.07956979855843423,
+   "Time_min": 137.7521628794804,
+   "Photodeg_pct": 21.959402311055083,
+   "EEO_kWh_m3_order": 1139.8289704791787,
+   "SEC_total_Wh_mg": 758.3463186357827
+  },
+  {
+   "Glucose_g": 1.8538738047907986,
+   "CuSO4_g": 0.07583835810132676,
+   "Time_min": 139.15246029323185,
+   "Photodeg_pct": 22.298140177820308,
+   "EEO_kWh_m3_order": 1976.367350215615,
+   "SEC_total_Wh_mg": 1322.2505454758812
+  },
+  {
+   "Glucose_g": 1.655067628626937,
+   "CuSO4_g": 0.07068118047159934,
+   "Time_min": 136.88649540804983,
+   "Photodeg_pct": 22.75293152753614,
+   "EEO_kWh_m3_order": 3674.8225284576342,
+   "SEC_total_Wh_mg": 2351.1992848813966
+  },
+  {
+   "Glucose_g": 1.9197251916867604,
+   "CuSO4_g": 0.07874092030322333,
+   "Time_min": 135.52454537234001,
+   "Photodeg_pct": 21.884201689986703,
+   "EEO_kWh_m3_order": 1123.791287318885,
+   "SEC_total_Wh_mg": 671.6964765377863
+  },
+  {
+   "Glucose_g": 1.7985579463683254,
+   "CuSO4_g": 0.07489856809079079,
+   "Time_min": 139.0513585578346,
+   "Photodeg_pct": 22.462214571515574,
+   "EEO_kWh_m3_order": 2460.895606993995,
+   "SEC_total_Wh_mg": 1642.0907205405215
+  },
+  {
+   "Glucose_g": 1.8539912718912073,
+   "CuSO4_g": 0.07751533229066661,
+   "Time_min": 140.75038018497204,
+   "Photodeg_pct": 22.264889302293895,
+   "EEO_kWh_m3_order": 1892.1372028031433,
+   "SEC_total_Wh_mg": 1337.9706884696584
+  },
+  {
+   "Glucose_g": 1.7895544839221804,
+   "CuSO4_g": 0.07283078177456291,
+   "Time_min": 137.7521628794804,
+   "Photodeg_pct": 22.490506959440534,
+   "EEO_kWh_m3_order": 2657.5992641359435,
+   "SEC_total_Wh_mg": 1707.3818922815558
+  },
+  {
+   "Glucose_g": 1.7324945467735964,
+   "CuSO4_g": 0.07322732510015581,
+   "Time_min": 138.9193293896707,
+   "Photodeg_pct": 22.630051784127033,
+   "EEO_kWh_m3_order": 3075.3314413165126,
+   "SEC_total_Wh_mg": 2037.4164410247913
+  },
+  {
+   "Glucose_g": 1.6653349313812202,
+   "CuSO4_g": 0.07026568772922667,
+   "Time_min": 139.25874280283114,
+   "Photodeg_pct": 22.789636908472026,
+   "EEO_kWh_m3_order": 3771.7753319251324,
+   "SEC_total_Wh_mg": 2487.4412122008976
+  },
+  {
+   "Glucose_g": 1.6388761596613652,
+   "CuSO4_g": 0.06858574307404582,
+   "Time_min": 139.09584529761926,
+   "Photodeg_pct": 22.83788195503957,
+   "EEO_kWh_m3_order": 4055.516221757189,
+   "SEC_total_Wh_mg": 2655.754763809734
+  },
+  {
+   "Glucose_g": 1.5754589526733582,
+   "CuSO4_g": 0.06644075119765729,
+   "Time_min": 137.83721334891516,
+   "Photodeg_pct": 22.888712365435328,
+   "EEO_kWh_m3_order": 4509.83285591198,
+   "SEC_total_Wh_mg": 2898.4050310627526
+  },
+  {
+   "Glucose_g": 1.7536483772997156,
+   "CuSO4_g": 0.07294065986633082,
+   "Time_min": 134.7842847462107,
+   "Photodeg_pct": 22.470696795820206,
+   "EEO_kWh_m3_order": 2737.793512371824,
+   "SEC_total_Wh_mg": 1680.646437255003
+  },
+  {
+   "Glucose_g": 1.8916439990219034,
+   "CuSO4_g": 0.07799046475652809,
+   "Time_min": 136.1321868960536,
+   "Photodeg_pct": 22.03132090030461,
+   "EEO_kWh_m3_order": 1411.9043953453217,
+   "SEC_total_Wh_mg": 877.0152221378391
+  },
+  {
+   "Glucose_g": 1.9171594168114399,
+   "CuSO4_g": 0.07788526742950791,
+   "Time_min": 137.036175927931,
+   "Photodeg_pct": 21.981715284864205,
+   "EEO_kWh_m3_order": 1260.4155770301045,
+   "SEC_total_Wh_mg": 793.0747209767198
+  },
+  {
+   "Glucose_g": 1.8916439990219034,
+   "CuSO4_g": 0.07803548937809948,
+   "Time_min": 141.15198836829123,
+   "Photodeg_pct": 22.150310103766166,
+   "EEO_kWh_m3_order": 1547.2992211502674,
+   "SEC_total_Wh_mg": 1118.9493352757067
+  },
+  {
+   "Glucose_g": 1.7158800372924472,
+   "CuSO4_g": 0.07127394666173974,
+   "Time_min": 138.97436643890842,
+   "Photodeg_pct": 22.69860965625203,
+   "EEO_kWh_m3_order": 3333.151810003621,
+   "SEC_total_Wh_mg": 2191.1406450265295
+  },
+  {
+   "Glucose_g": 1.9657763244134303,
+   "CuSO4_g": 0.07883745962219117,
+   "Time_min": 139.57705206165787,
+   "Photodeg_pct": 21.849344517340707,
+   "EEO_kWh_m3_order": 865.9596203554888,
+   "SEC_total_Wh_mg": 603.2011625971745
+  },
+  {
+   "Glucose_g": 1.6374371076510947,
+   "CuSO4_g": 0.06965277367752368,
+   "Time_min": 138.44804510554923,
+   "Photodeg_pct": 22.819129953218848,
+   "EEO_kWh_m3_order": 3953.472028760978,
+   "SEC_total_Wh_mg": 2577.294489126069
+  },
+  {
+   "Glucose_g": 1.7109121266611724,
+   "CuSO4_g": 0.07138475868848544,
+   "Time_min": 137.98659596932023,
+   "Photodeg_pct": 22.688778544728287,
+   "EEO_kWh_m3_order": 3302.414178855878,
+   "SEC_total_Wh_mg": 2140.900117300525
+  },
+  {
+   "Glucose_g": 1.6719753250022142,
+   "CuSO4_g": 0.07021741767629855,
+   "Time_min": 137.3031910912359,
+   "Photodeg_pct": 22.750493717886407,
+   "EEO_kWh_m3_order": 3606.990685994406,
+   "SEC_total_Wh_mg": 2313.200198500301
+  },
+  {
+   "Glucose_g": 1.7894854217954843,
+   "CuSO4_g": 0.07241424585665882,
+   "Time_min": 139.02854166175047,
+   "Photodeg_pct": 22.522226959130137,
+   "EEO_kWh_m3_order": 2763.508358670043,
+   "SEC_total_Wh_mg": 1812.3887019659592
+  },
+  {
+   "Glucose_g": 1.7324945467735964,
+   "CuSO4_g": 0.07322324577985956,
+   "Time_min": 139.57206247853273,
+   "Photodeg_pct": 22.637266611708075,
+   "EEO_kWh_m3_order": 3110.088132558818,
+   "SEC_total_Wh_mg": 2081.53733882281
+  },
+  {
+   "Glucose_g": 1.9255177654498725,
+   "CuSO4_g": 0.07767276493442131,
+   "Time_min": 140.040374572279,
+   "Photodeg_pct": 22.03884843960137,
+   "EEO_kWh_m3_order": 1298.8565159907853,
+   "SEC_total_Wh_mg": 902.7828207383283
+  },
+  {
+   "Glucose_g": 1.6479585944837642,
+   "CuSO4_g": 0.07064576527776767,
+   "Time_min": 139.0202886089887,
+   "Photodeg_pct": 22.794989297771956,
+   "EEO_kWh_m3_order": 3867.748683655728,
+   "SEC_total_Wh_mg": 2548.0407937317905
+  },
+  {
+   "Glucose_g": 1.5739950606919817,
+   "CuSO4_g": 0.06705376309604773,
+   "Time_min": 137.72923872373332,
+   "Photodeg_pct": 22.88535352290802,
+   "EEO_kWh_m3_order": 4473.337266456231,
+   "SEC_total_Wh_mg": 2876.5231408390637
+  },
+  {
+   "Glucose_g": 1.953237715294037,
+   "CuSO4_g": 0.07930675362884788,
+   "Time_min": 141.23827457294894,
+   "Photodeg_pct": 21.910865862656667,
+   "EEO_kWh_m3_order": 932.4933769670157,
+   "SEC_total_Wh_mg": 710.8844535045927
+  },
+  {
+   "Glucose_g": 1.9197533639403888,
+   "CuSO4_g": 0.078711043096124,
+   "Time_min": 136.60982204163653,
+   "Photodeg_pct": 21.934052995872275,
+   "EEO_kWh_m3_order": 1149.06582000804,
+   "SEC_total_Wh_mg": 718.4058895644127
+  },
+  {
+   "Glucose_g": 1.8840863183435772,
+   "CuSO4_g": 0.07803548937809948,
+   "Time_min": 137.15145091935707,
+   "Photodeg_pct": 22.093375023870664,
+   "EEO_kWh_m3_order": 1493.1831758974458,
+   "SEC_total_Wh_mg": 962.8074680109314
+  },
+  {
+   "Glucose_g": 1.7512610887312852,
+   "CuSO4_g": 0.07289909677158915,
+   "Time_min": 137.96109530849637,
+   "Photodeg_pct": 22.587421525623135,
+   "EEO_kWh_m3_order": 2908.1773680476244,
+   "SEC_total_Wh_mg": 1889.604156965324
+  },
+  {
+   "Glucose_g": 1.7536483772997156,
+   "CuSO4_g": 0.07294065986633082,
+   "Time_min": 137.73210573672105,
+   "Photodeg_pct": 22.576318439802378,
+   "EEO_kWh_m3_order": 2877.0963029396335,
+   "SEC_total_Wh_mg": 1861.882357970637
+  },
+  {
+   "Glucose_g": 1.8357230941669695,
+   "CuSO4_g": 0.0752899605011846,
+   "Time_min": 138.19251898072022,
+   "Photodeg_pct": 22.34051202209056,
+   "EEO_kWh_m3_order": 2122.994782382608,
+   "SEC_total_Wh_mg": 1387.4240464096113
+  },
+  {
+   "Glucose_g": 1.9175497970617439,
+   "CuSO4_g": 0.07875465418174774,
+   "Time_min": 139.28577077611993,
+   "Photodeg_pct": 22.022674644356407,
+   "EEO_kWh_m3_order": 1223.3749721523373,
+   "SEC_total_Wh_mg": 847.6738103803076
+  },
+  {
+   "Glucose_g": 1.9887984020727245,
+   "CuSO4_g": 0.07972802388268639,
+   "Time_min": 143.7451436124327,
+   "Photodeg_pct": 21.76580294837802,
+   "EEO_kWh_m3_order": 659.2321390616225,
+   "SEC_total_Wh_mg": 602.600078822721
+  },
+  {
+   "Glucose_g": 1.8818517482477928,
+   "CuSO4_g": 0.07778932855072233,
+   "Time_min": 139.03059926902048,
+   "Photodeg_pct": 22.16004959910896,
+   "EEO_kWh_m3_order": 1583.9181396875285,
+   "SEC_total_Wh_mg": 1076.35859475369
+  },
+  {
+   "Glucose_g": 1.9657763244134303,
+   "CuSO4_g": 0.0793602307040946,
+   "Time_min": 139.53810337100674,
+   "Photodeg_pct": 21.8361802058312,
+   "EEO_kWh_m3_order": 799.555055282505,
+   "SEC_total_Wh_mg": 566.0865831381375
+  },
+  {
+   "Glucose_g": 1.7134712569270496,
+   "CuSO4_g": 0.07026568772922667,
+   "Time_min": 138.80102119493085,
+   "Photodeg_pct": 22.70797506422635,
+   "EEO_kWh_m3_order": 3432.3823251035274,
+   "SEC_total_Wh_mg": 2239.702635649589
+  },
+  {
+   "Glucose_g": 1.7109121266611724,
+   "CuSO4_g": 0.07138475868848544,
+   "Time_min": 137.54596506534298,
+   "Photodeg_pct": 22.67890119298632,
+   "EEO_kWh_m3_order": 3277.9596614316774,
+   "SEC_total_Wh_mg": 2110.6731572793497
+  },
+  {
+   "Glucose_g": 1.6889961259088158,
+   "CuSO4_g": 0.07111352748313228,
+   "Time_min": 137.97128798435241,
+   "Photodeg_pct": 22.727290676112293,
+   "EEO_kWh_m3_order": 3471.76653762129,
+   "SEC_total_Wh_mg": 2252.64770197224
+  },
+  {
+   "Glucose_g": 1.848209023617685,
+   "CuSO4_g": 0.07596403980448461,
+   "Time_min": 140.02115455054295,
+   "Photodeg_pct": 22.32501547016868,
+   "EEO_kWh_m3_order": 2035.8328438874703,
+   "SEC_total_Wh_mg": 1392.3668411745234
+  },
+  {
+   "Glucose_g": 1.849576372338999,
+   "CuSO4_g": 0.0751301460050268,
+   "Time_min": 138.85445939807678,
+   "Photodeg_pct": 22.317543498867188,
+   "EEO_kWh_m3_order": 2070.806028081935,
+   "SEC_total_Wh_mg": 1367.0938983126698
+  },
+  {
+   "Glucose_g": 1.9527636363923198,
+   "CuSO4_g": 0.07971008595602513,
+   "Time_min": 141.58748543974667,
+   "Photodeg_pct": 21.901059439847394,
+   "EEO_kWh_m3_order": 900.6504953938662,
+   "SEC_total_Wh_mg": 706.6802300658943
+  },
+  {
+   "Glucose_g": 1.7087776681848994,
+   "CuSO4_g": 0.07021741767629855,
+   "Time_min": 139.9711063251954,
+   "Photodeg_pct": 22.730848571946485,
+   "EEO_kWh_m3_order": 3532.7537750531183,
+   "SEC_total_Wh_mg": 2345.6257649663066
+  },
+  {
+   "Glucose_g": 1.8956542004709398,
+   "CuSO4_g": 0.07903569630841958,
+   "Time_min": 141.25726002329912,
+   "Photodeg_pct": 22.09862701840701,
+   "EEO_kWh_m3_order": 1439.0899290961531,
+   "SEC_total_Wh_mg": 1061.8266154294029
+  },
+  {
+   "Glucose_g": 1.8547939840182412,
+   "CuSO4_g": 0.07560329222379898,
+   "Time_min": 139.61064898757152,
+   "Photodeg_pct": 22.308260511843578,
+   "EEO_kWh_m3_order": 2010.480260976618,
+   "SEC_total_Wh_mg": 1355.8122271472603
+  },
+  {
+   "Glucose_g": 1.771640646534626,
+   "CuSO4_g": 0.07248285268622877,
+   "Time_min": 138.82431010849993,
+   "Photodeg_pct": 22.565039673100237,
+   "EEO_kWh_m3_order": 2852.9554535629495,
+   "SEC_total_Wh_mg": 1870.8812414327804
+  },
+  {
+   "Glucose_g": 1.9236365945933545,
+   "CuSO4_g": 0.07960939471108981,
+   "Time_min": 139.22562508936113,
+   "Photodeg_pct": 21.969759240535467,
+   "EEO_kWh_m3_order": 1099.7283598078443,
+   "SEC_total_Wh_mg": 773.5794809194762
+  },
+  {
+   "Glucose_g": 1.8334111388968568,
+   "CuSO4_g": 0.0753200006417595,
+   "Time_min": 139.48254363121035,
+   "Photodeg_pct": 22.37299941910035,
+   "EEO_kWh_m3_order": 2184.529803049,
+   "SEC_total_Wh_mg": 1469.5109930176084
+  },
+  {
+   "Glucose_g": 1.8809324424002423,
+   "CuSO4_g": 0.077753327190006,
+   "Time_min": 139.4040729041731,
+   "Photodeg_pct": 22.17102046234658,
+   "EEO_kWh_m3_order": 1605.3707869557422,
+   "SEC_total_Wh_mg": 1101.832400297651
+  },
+  {
+   "Glucose_g": 1.8215070643744302,
+   "CuSO4_g": 0.07436497524415366,
+   "Time_min": 139.22768726438494,
+   "Photodeg_pct": 22.419054839300266,
+   "EEO_kWh_m3_order": 2352.579584370137,
+   "SEC_total_Wh_mg": 1563.5313124931238
+  },
+  {
+   "Glucose_g": 1.6762806316753798,
+   "CuSO4_g": 0.06818982797725166,
+   "Time_min": 137.98757530442148,
+   "Photodeg_pct": 22.76021703927114,
+   "EEO_kWh_m3_order": 3811.394579083832,
+   "SEC_total_Wh_mg": 2446.188331203725
+  },
+  {
+   "Glucose_g": 1.645499316044708,
+   "CuSO4_g": 0.06818982797725166,
+   "Time_min": 137.98757530442148,
+   "Photodeg_pct": 22.814761746737332,
+   "EEO_kWh_m3_order": 3973.921148608747,
+   "SEC_total_Wh_mg": 2559.503255797283
+  },
+  {
+   "Glucose_g": 1.8381861853025803,
+   "CuSO4_g": 0.07527309347488165,
+   "Time_min": 139.1002459125118,
+   "Photodeg_pct": 22.35411616475677,
+   "EEO_kWh_m3_order": 2141.0360077082905,
+   "SEC_total_Wh_mg": 1426.6861179051045
+  },
+  {
+   "Glucose_g": 1.5739950606919817,
+   "CuSO4_g": 0.06705376309604773,
+   "Time_min": 138.6521409905403,
+   "Photodeg_pct": 22.896523245225342,
+   "EEO_kWh_m3_order": 4544.574865082828,
+   "SEC_total_Wh_mg": 2954.8088925071256
+  },
+  {
+   "Glucose_g": 1.8156845471630292,
+   "CuSO4_g": 0.07537811346556368,
+   "Time_min": 138.9129785409102,
+   "Photodeg_pct": 22.40712746052897,
+   "EEO_kWh_m3_order": 2288.1123674668243,
+   "SEC_total_Wh_mg": 1525.3289092342868
+  },
+  {
+   "Glucose_g": 1.7536483772997156,
+   "CuSO4_g": 0.07294065986633082,
+   "Time_min": 135.71569593682838,
+   "Photodeg_pct": 22.511201053113023,
+   "EEO_kWh_m3_order": 2780.8861708929326,
+   "SEC_total_Wh_mg": 1736.601113549163
+  },
+  {
+   "Glucose_g": 1.7870974479989832,
+   "CuSO4_g": 0.07489856809079079,
+   "Time_min": 139.05278993714802,
+   "Photodeg_pct": 22.486385655389793,
+   "EEO_kWh_m3_order": 2550.3203078288243,
+   "SEC_total_Wh_mg": 1703.6165819635728
+  },
+  {
+   "Glucose_g": 1.6945549200677534,
+   "CuSO4_g": 0.07115003720983903,
+   "Time_min": 140.2068058336767,
+   "Photodeg_pct": 22.74354810432751,
+   "EEO_kWh_m3_order": 3562.654303459707,
+   "SEC_total_Wh_mg": 2386.164744706639
+  },
+  {
+   "Glucose_g": 1.9407004738542857,
+   "CuSO4_g": 0.07891582895720742,
+   "Time_min": 137.06332236076148,
+   "Photodeg_pct": 21.869231846176426,
+   "EEO_kWh_m3_order": 984.7795081759764,
+   "SEC_total_Wh_mg": 618.5549652288526
+  },
+  {
+   "Glucose_g": 1.747172727179556,
+   "CuSO4_g": 0.07248285268622877,
+   "Time_min": 136.15024364428683,
+   "Photodeg_pct": 22.54897183964899,
+   "EEO_kWh_m3_order": 2880.4205287643867,
+   "SEC_total_Wh_mg": 1811.0485653191454
+  },
+  {
+   "Glucose_g": 1.8322692491042025,
+   "CuSO4_g": 0.07511736421105437,
+   "Time_min": 140.03348646385948,
+   "Photodeg_pct": 22.387935425176046,
+   "EEO_kWh_m3_order": 2233.5631303742894,
+   "SEC_total_Wh_mg": 1517.29243929031
+  }
+ ],
+ "optimization_constraint": "|x1|+|x2|+|x3| <= 2, x1 + x2 <= 1 and |xi| <= 1 (convex hull of the 13 distinct tested design points)",
+ "raw_data_source": "data_analyse_1.xlsx (lab workbook); V5 A0 reps 2-3, V6 A0 rep 1, V7 A0 reps 2-3 and K1 Ai rep 1 corrected to it on 2026-09-24",
+ "opt_summary_bbd_hull": [
+  {
+   "Method": "Desirability (DE)",
+   "Glucose_g": 1.4049116251826486,
+   "CuSO4_g": 0.05966965237763744,
+   "Time_min": 140.9583061323558,
+   "Photodeg_pct": 22.830978176289275,
+   "EEO_kWh_m3_order": 6210.471909859716,
+   "SEC_total_Wh_mg": 1427.1682993055065
+  },
+  {
+   "Method": "Weighted sum (equal)",
+   "Glucose_g": 1.6902730644100772,
+   "CuSO4_g": 0.07211620889155695,
+   "Time_min": 138.7377516390574,
+   "Photodeg_pct": 22.71412620344802,
+   "EEO_kWh_m3_order": 3454.6582882290045,
+   "SEC_total_Wh_mg": 881.9786295348613
+  },
+  {
+   "Method": "Tchebycheff",
+   "Glucose_g": 1.3786155242848093,
+   "CuSO4_g": 0.05169632635906222,
+   "Time_min": 140.17274195693304,
+   "Photodeg_pct": 22.3776357104061,
+   "EEO_kWh_m3_order": 7369.429484776318,
+   "SEC_total_Wh_mg": 1651.1086964832384
+  },
+  {
+   "Method": "NSGA-II (best degradation)",
+   "Glucose_g": 1.5151663688908132,
+   "CuSO4_g": 0.06454834212941694,
+   "Time_min": 139.58135827137264,
+   "Photodeg_pct": 22.92433185205282,
+   "EEO_kWh_m3_order": 5139.718088007611,
+   "SEC_total_Wh_mg": 1214.4309982523716
+  },
+  {
+   "Method": "NSGA-II (best EEO)",
+   "Glucose_g": 1.9985413057667887,
+   "CuSO4_g": 0.07996979349987701,
+   "Time_min": 150.07222046747907,
+   "Photodeg_pct": 21.521328176678065,
+   "EEO_kWh_m3_order": 680.5612115639527,
+   "SEC_total_Wh_mg": 351.8540323554361
+  }
+ ],
+ "pareto_bbd_hull": [
+  {
+   "Glucose_g": 1.9985413057667887,
+   "CuSO4_g": 0.07996979349987701,
+   "Time_min": 150.07222046747907,
+   "Photodeg_pct": 21.521328176678065,
+   "EEO_kWh_m3_order": 680.5612115639527,
+   "SEC_total_Wh_mg": 351.8540323554361
+  },
+  {
+   "Glucose_g": 1.5151663688908132,
+   "CuSO4_g": 0.06454834212941694,
+   "Time_min": 139.58135827137264,
+   "Photodeg_pct": 22.92433185205282,
+   "EEO_kWh_m3_order": 5139.718088007611,
+   "SEC_total_Wh_mg": 1214.4309982523716
+  },
+  {
+   "Glucose_g": 1.5338131462971927,
+   "CuSO4_g": 0.06454834212941694,
+   "Time_min": 139.58135827137264,
+   "Photodeg_pct": 22.921018282177116,
+   "EEO_kWh_m3_order": 5029.761712229358,
+   "SEC_total_Wh_mg": 1192.6077774619037
+  },
+  {
+   "Glucose_g": 1.7932839671124128,
+   "CuSO4_g": 0.07448956547678147,
+   "Time_min": 138.9652145991674,
+   "Photodeg_pct": 22.483177134293324,
+   "EEO_kWh_m3_order": 2528.130327294044,
+   "SEC_total_Wh_mg": 699.1618077407513
+  },
+  {
+   "Glucose_g": 1.7451024202674694,
+   "CuSO4_g": 0.07278795944583953,
+   "Time_min": 139.46487034472918,
+   "Photodeg_pct": 22.62676010904513,
+   "EEO_kWh_m3_order": 3036.460647844015,
+   "SEC_total_Wh_mg": 800.2439224669616
+  },
+  {
+   "Glucose_g": 1.5478507176404452,
+   "CuSO4_g": 0.06604593043444693,
+   "Time_min": 139.67265534611707,
+   "Photodeg_pct": 22.916319953056448,
+   "EEO_kWh_m3_order": 4854.218052198014,
+   "SEC_total_Wh_mg": 1158.6125945758838
+  },
+  {
+   "Glucose_g": 1.9426328588329065,
+   "CuSO4_g": 0.07934510420761544,
+   "Time_min": 147.11377702558204,
+   "Photodeg_pct": 21.85801234068456,
+   "EEO_kWh_m3_order": 1161.4236288604814,
+   "SEC_total_Wh_mg": 442.60651761247715
+  },
+  {
+   "Glucose_g": 1.5873744163731356,
+   "CuSO4_g": 0.06653599881657621,
+   "Time_min": 139.46487034472918,
+   "Photodeg_pct": 22.89611164416429,
+   "EEO_kWh_m3_order": 4557.054054470571,
+   "SEC_total_Wh_mg": 1099.464012675409
+  },
+  {
+   "Glucose_g": 1.8997057849715266,
+   "CuSO4_g": 0.07779544331970914,
+   "Time_min": 143.82874712630004,
+   "Photodeg_pct": 22.123515954624832,
+   "EEO_kWh_m3_order": 1586.573410859215,
+   "SEC_total_Wh_mg": 521.0018223625055
+  },
+  {
+   "Glucose_g": 1.9448629870759933,
+   "CuSO4_g": 0.07798207103946954,
+   "Time_min": 145.82228865145183,
+   "Photodeg_pct": 21.938018914159443,
+   "EEO_kWh_m3_order": 1271.3534208462881,
+   "SEC_total_Wh_mg": 461.18747949445935
+  },
+  {
+   "Glucose_g": 1.8135746608950345,
+   "CuSO4_g": 0.0738691375901312,
+   "Time_min": 138.87279440663275,
+   "Photodeg_pct": 22.441088333488203,
+   "EEO_kWh_m3_order": 2443.0618607891124,
+   "SEC_total_Wh_mg": 681.4888477259444
+  },
+  {
+   "Glucose_g": 1.7719439034415476,
+   "CuSO4_g": 0.07379610548430057,
+   "Time_min": 139.54954858289153,
+   "Photodeg_pct": 22.553690127214615,
+   "EEO_kWh_m3_order": 2766.994037602594,
+   "SEC_total_Wh_mg": 747.2726118464955
+  },
+  {
+   "Glucose_g": 1.6029740313772145,
+   "CuSO4_g": 0.06759693259328017,
+   "Time_min": 139.4488005021808,
+   "Photodeg_pct": 22.880606464655752,
+   "EEO_kWh_m3_order": 4381.897632718983,
+   "SEC_total_Wh_mg": 1065.1666988147788
+  },
+  {
+   "Glucose_g": 1.7798165624547115,
+   "CuSO4_g": 0.07403879080649733,
+   "Time_min": 139.45989625587757,
+   "Photodeg_pct": 22.530644475202962,
+   "EEO_kWh_m3_order": 2685.5573257559363,
+   "SEC_total_Wh_mg": 731.041965667617
+  },
+  {
+   "Glucose_g": 1.9490794787616,
+   "CuSO4_g": 0.07944342333477832,
+   "Time_min": 147.41808740408064,
+   "Photodeg_pct": 21.82374980881108,
+   "EEO_kWh_m3_order": 1102.5715223405157,
+   "SEC_total_Wh_mg": 431.41836611272106
+  },
+  {
+   "Glucose_g": 1.8977670857271656,
+   "CuSO4_g": 0.07712289223500411,
+   "Time_min": 143.45103335348347,
+   "Photodeg_pct": 22.15467197982537,
+   "EEO_kWh_m3_order": 1661.4408718747845,
+   "SEC_total_Wh_mg": 534.8098787271166
+  },
+  {
+   "Glucose_g": 1.601097148111401,
+   "CuSO4_g": 0.0666343358295293,
+   "Time_min": 139.363488396024,
+   "Photodeg_pct": 22.883643890257666,
+   "EEO_kWh_m3_order": 4461.375271620117,
+   "SEC_total_Wh_mg": 1080.3001919356068
+  },
+  {
+   "Glucose_g": 1.6999065168026204,
+   "CuSO4_g": 0.07204927601590208,
+   "Time_min": 139.38028105089472,
+   "Photodeg_pct": 22.711722513048638,
+   "EEO_kWh_m3_order": 3419.252992153737,
+   "SEC_total_Wh_mg": 875.9318443784764
+  },
+  {
+   "Glucose_g": 1.7908244138281595,
+   "CuSO4_g": 0.07408470909909075,
+   "Time_min": 139.68465322174,
+   "Photodeg_pct": 22.508393885908205,
+   "EEO_kWh_m3_order": 2611.2506050140682,
+   "SEC_total_Wh_mg": 716.5775989956245
+  },
+  {
+   "Glucose_g": 1.8752481903506706,
+   "CuSO4_g": 0.0768287633318635,
+   "Time_min": 142.45689290518874,
+   "Photodeg_pct": 22.23571133951275,
+   "EEO_kWh_m3_order": 1832.7737771645463,
+   "SEC_total_Wh_mg": 567.3054529497504
+  },
+  {
+   "Glucose_g": 1.9788514877109828,
+   "CuSO4_g": 0.07999063338341973,
+   "Time_min": 149.31461145290805,
+   "Photodeg_pct": 21.62540622274641,
+   "EEO_kWh_m3_order": 827.8388282755911,
+   "SEC_total_Wh_mg": 380.1186706511203
+  },
+  {
+   "Glucose_g": 1.7424776128592145,
+   "CuSO4_g": 0.07204957698158852,
+   "Time_min": 139.3960960162121,
+   "Photodeg_pct": 22.643741340424377,
+   "EEO_kWh_m3_order": 3111.799439405416,
+   "SEC_total_Wh_mg": 814.6674354793684
+  },
+  {
+   "Glucose_g": 1.8873003697343824,
+   "CuSO4_g": 0.07656899791954923,
+   "Time_min": 142.55829199782144,
+   "Photodeg_pct": 22.20710072324836,
+   "EEO_kWh_m3_order": 1773.4786511289535,
+   "SEC_total_Wh_mg": 555.3441934559904
+  },
+  {
+   "Glucose_g": 1.676891588334533,
+   "CuSO4_g": 0.07057459713069024,
+   "Time_min": 139.53283908674348,
+   "Photodeg_pct": 22.773003060421008,
+   "EEO_kWh_m3_order": 3686.9500095671933,
+   "SEC_total_Wh_mg": 928.6481438313849
+  },
+  {
+   "Glucose_g": 1.7591799869303546,
+   "CuSO4_g": 0.07248897550781191,
+   "Time_min": 139.47013328846123,
+   "Photodeg_pct": 22.603890101024977,
+   "EEO_kWh_m3_order": 2964.032823264531,
+   "SEC_total_Wh_mg": 785.5722044412493
+  },
+  {
+   "Glucose_g": 1.9329620827923135,
+   "CuSO4_g": 0.07945852824665059,
+   "Time_min": 147.11377702558204,
+   "Photodeg_pct": 21.879272308588295,
+   "EEO_kWh_m3_order": 1237.4155143606174,
+   "SEC_total_Wh_mg": 457.9142102676679
+  },
+  {
+   "Glucose_g": 1.8898141050489359,
+   "CuSO4_g": 0.07656899791954923,
+   "Time_min": 142.25604365788973,
+   "Photodeg_pct": 22.200269429724717,
+   "EEO_kWh_m3_order": 1745.4688815841719,
+   "SEC_total_Wh_mg": 549.2416265345419
+  },
+  {
+   "Glucose_g": 1.609574233679349,
+   "CuSO4_g": 0.06763047705525489,
+   "Time_min": 138.70663215526716,
+   "Photodeg_pct": 22.86932944001235,
+   "EEO_kWh_m3_order": 4283.218425108966,
+   "SEC_total_Wh_mg": 1044.32931803766
+  },
+  {
+   "Glucose_g": 1.8365125663460375,
+   "CuSO4_g": 0.07555289817691634,
+   "Time_min": 139.35944128393066,
+   "Photodeg_pct": 22.357333934676806,
+   "EEO_kWh_m3_order": 2135.640935263509,
+   "SEC_total_Wh_mg": 622.0928726275121
+  },
+  {
+   "Glucose_g": 1.8105082629035494,
+   "CuSO4_g": 0.07538088648224656,
+   "Time_min": 139.53384783483747,
+   "Photodeg_pct": 22.428832782794075,
+   "EEO_kWh_m3_order": 2353.014451318104,
+   "SEC_total_Wh_mg": 665.6847800481545
+  },
+  {
+   "Glucose_g": 1.6703165008966552,
+   "CuSO4_g": 0.06942294445367642,
+   "Time_min": 139.0305448979295,
+   "Photodeg_pct": 22.790765563496475,
+   "EEO_kWh_m3_order": 3785.794096747491,
+   "SEC_total_Wh_mg": 946.8373465878509
+  },
+  {
+   "Glucose_g": 1.5712443982135849,
+   "CuSO4_g": 0.06739078376995156,
+   "Time_min": 139.48836522533006,
+   "Photodeg_pct": 22.897710562484004,
+   "EEO_kWh_m3_order": 4612.25432441332,
+   "SEC_total_Wh_mg": 1110.876345203808
+  },
+  {
+   "Glucose_g": 1.9910924185404482,
+   "CuSO4_g": 0.07995613171335213,
+   "Time_min": 149.62532899048762,
+   "Photodeg_pct": 21.571151513754412,
+   "EEO_kWh_m3_order": 734.4870903477869,
+   "SEC_total_Wh_mg": 361.88385329801037
+  },
+  {
+   "Glucose_g": 1.7604379426639445,
+   "CuSO4_g": 0.07285672192105677,
+   "Time_min": 138.4801096340833,
+   "Photodeg_pct": 22.579843697428952,
+   "EEO_kWh_m3_order": 2873.726450127933,
+   "SEC_total_Wh_mg": 766.2802737304306
+  },
+  {
+   "Glucose_g": 1.850572205228372,
+   "CuSO4_g": 0.07722590289912867,
+   "Time_min": 141.58911507258458,
+   "Photodeg_pct": 22.286237781148486,
+   "EEO_kWh_m3_order": 1971.3334538620798,
+   "SEC_total_Wh_mg": 593.9259276584412
+  },
+  {
+   "Glucose_g": 1.7604379426639445,
+   "CuSO4_g": 0.07279652687715144,
+   "Time_min": 139.6424252157826,
+   "Photodeg_pct": 22.598606572406215,
+   "EEO_kWh_m3_order": 2936.1025881843516,
+   "SEC_total_Wh_mg": 780.4876040804477
+  },
+  {
+   "Glucose_g": 1.6999065168026204,
+   "CuSO4_g": 0.07154186611641379,
+   "Time_min": 137.82732276080824,
+   "Photodeg_pct": 22.700674531351435,
+   "EEO_kWh_m3_order": 3358.987140878929,
+   "SEC_total_Wh_mg": 861.2079031005065
+  },
+  {
+   "Glucose_g": 1.8496882870875668,
+   "CuSO4_g": 0.0768287633318635,
+   "Time_min": 141.5161797143537,
+   "Photodeg_pct": 22.303552786620106,
+   "EEO_kWh_m3_order": 2005.0854489463413,
+   "SEC_total_Wh_mg": 600.2823122849255
+  },
+  {
+   "Glucose_g": 1.929051340202927,
+   "CuSO4_g": 0.07812880959783758,
+   "Time_min": 145.43011916872402,
+   "Photodeg_pct": 21.995084429737652,
+   "EEO_kWh_m3_order": 1362.8587728034217,
+   "SEC_total_Wh_mg": 479.0750415422149
+  },
+  {
+   "Glucose_g": 1.8491732275977228,
+   "CuSO4_g": 0.07640090156716355,
+   "Time_min": 141.61209070024645,
+   "Photodeg_pct": 22.319326621233184,
+   "EEO_kWh_m3_order": 2047.6964473907374,
+   "SEC_total_Wh_mg": 608.6417667033883
+  },
+  {
+   "Glucose_g": 1.968664974445162,
+   "CuSO4_g": 0.0790957085927216,
+   "Time_min": 147.85044811621987,
+   "Photodeg_pct": 21.758669310980828,
+   "EEO_kWh_m3_order": 990.9700040459448,
+   "SEC_total_Wh_mg": 409.43577550880525
+  },
+  {
+   "Glucose_g": 1.9313342816568182,
+   "CuSO4_g": 0.07843383291304395,
+   "Time_min": 145.84516058591305,
+   "Photodeg_pct": 21.9673207630734,
+   "EEO_kWh_m3_order": 1321.0012024490163,
+   "SEC_total_Wh_mg": 471.6537536291927
+  },
+  {
+   "Glucose_g": 1.7178310805748789,
+   "CuSO4_g": 0.071634653346678,
+   "Time_min": 138.87536528878027,
+   "Photodeg_pct": 22.688685095618414,
+   "EEO_kWh_m3_order": 3285.584303835374,
+   "SEC_total_Wh_mg": 848.2647050143428
+  },
+  {
+   "Glucose_g": 1.7291564910768726,
+   "CuSO4_g": 0.07144099949838166,
+   "Time_min": 138.95225934698044,
+   "Photodeg_pct": 22.67148327303679,
+   "EEO_kWh_m3_order": 3230.432658522886,
+   "SEC_total_Wh_mg": 837.2376028717116
+  },
+  {
+   "Glucose_g": 1.968664974445162,
+   "CuSO4_g": 0.07873668244004997,
+   "Time_min": 147.85044811621987,
+   "Photodeg_pct": 21.769746789647968,
+   "EEO_kWh_m3_order": 1040.2269558994417,
+   "SEC_total_Wh_mg": 418.9590855068487
+  },
+  {
+   "Glucose_g": 1.9988508381795582,
+   "CuSO4_g": 0.07976714815763065,
+   "Time_min": 149.7545879868167,
+   "Photodeg_pct": 21.5445021941302,
+   "EEO_kWh_m3_order": 699.7096818002251,
+   "SEC_total_Wh_mg": 354.91398654513216
+  },
+  {
+   "Glucose_g": 1.972723962632504,
+   "CuSO4_g": 0.07976806771114965,
+   "Time_min": 148.74088448788575,
+   "Photodeg_pct": 21.681988890960483,
+   "EEO_kWh_m3_order": 893.95196642477,
+   "SEC_total_Wh_mg": 392.16634523893066
+  },
+  {
+   "Glucose_g": 1.9873434778096066,
+   "CuSO4_g": 0.07975152821446013,
+   "Time_min": 149.62532899048762,
+   "Photodeg_pct": 21.591199202509195,
+   "EEO_kWh_m3_order": 793.7020233227017,
+   "SEC_total_Wh_mg": 373.5791038087366
+  },
+  {
+   "Glucose_g": 1.7770635030523818,
+   "CuSO4_g": 0.07390048474067434,
+   "Time_min": 139.54954858289153,
+   "Photodeg_pct": 22.540767361639208,
+   "EEO_kWh_m3_order": 2720.909209183858,
+   "SEC_total_Wh_mg": 738.1436982454906
+  },
+  {
+   "Glucose_g": 1.9166996650746766,
+   "CuSO4_g": 0.07776595527274217,
+   "Time_min": 144.4947965431098,
+   "Photodeg_pct": 22.06394270719079,
+   "EEO_kWh_m3_order": 1474.7132056888177,
+   "SEC_total_Wh_mg": 499.63662244940514
+  },
+  {
+   "Glucose_g": 1.5153770852006683,
+   "CuSO4_g": 0.0644783200581309,
+   "Time_min": 138.95765046141327,
+   "Photodeg_pct": 22.923219432293074,
+   "EEO_kWh_m3_order": 5087.895256945952,
+   "SEC_total_Wh_mg": 1203.0291810609424
+  },
+  {
+   "Glucose_g": 1.8305632291332246,
+   "CuSO4_g": 0.07471437152336806,
+   "Time_min": 138.97637194866172,
+   "Photodeg_pct": 22.3833305883812,
+   "EEO_kWh_m3_order": 2245.695863888776,
+   "SEC_total_Wh_mg": 642.8401839916303
+  },
+  {
+   "Glucose_g": 1.662782213835648,
+   "CuSO4_g": 0.06974797776111653,
+   "Time_min": 139.39182700069347,
+   "Photodeg_pct": 22.801337962790058,
+   "EEO_kWh_m3_order": 3832.577470157395,
+   "SEC_total_Wh_mg": 956.9441396538514
+  },
+  {
+   "Glucose_g": 1.9256988827365287,
+   "CuSO4_g": 0.07812880959783758,
+   "Time_min": 145.44611214202112,
+   "Photodeg_pct": 22.004974492668236,
+   "EEO_kWh_m3_order": 1390.0236540140916,
+   "SEC_total_Wh_mg": 484.55466123883843
+  },
+  {
+   "Glucose_g": 1.8960503183750177,
+   "CuSO4_g": 0.07687945665226134,
+   "Time_min": 142.91102844389874,
+   "Photodeg_pct": 22.17090487917057,
+   "EEO_kWh_m3_order": 1684.9170442009809,
+   "SEC_total_Wh_mg": 538.4243436976257
+  },
+  {
+   "Glucose_g": 1.873518454349169,
+   "CuSO4_g": 0.07652928678784936,
+   "Time_min": 141.97534426453063,
+   "Photodeg_pct": 22.250408888544346,
+   "EEO_kWh_m3_order": 1859.983318858458,
+   "SEC_total_Wh_mg": 571.738077598556
+  },
+  {
+   "Glucose_g": 1.9329620827923135,
+   "CuSO4_g": 0.07961999280147114,
+   "Time_min": 147.11377702558204,
+   "Photodeg_pct": 21.87157242011168,
+   "EEO_kWh_m3_order": 1222.5620695379628,
+   "SEC_total_Wh_mg": 455.0610415389026
+  },
+  {
+   "Glucose_g": 1.9824639632192984,
+   "CuSO4_g": 0.07846488481778582,
+   "Time_min": 147.7745663530502,
+   "Photodeg_pct": 21.729709142739264,
+   "EEO_kWh_m3_order": 976.4771697299378,
+   "SEC_total_Wh_mg": 405.64725771883053
+  },
+  {
+   "Glucose_g": 1.5768614766345999,
+   "CuSO4_g": 0.06604593043444693,
+   "Time_min": 139.74911736800118,
+   "Photodeg_pct": 22.904188215923757,
+   "EEO_kWh_m3_order": 4679.811435425537,
+   "SEC_total_Wh_mg": 1124.0985858242104
+  },
+  {
+   "Glucose_g": 1.920040376371648,
+   "CuSO4_g": 0.0781406129517069,
+   "Time_min": 144.970608876014,
+   "Photodeg_pct": 22.032592508827275,
+   "EEO_kWh_m3_order": 1420.062822169596,
+   "SEC_total_Wh_mg": 489.8001274531212
+  },
+  {
+   "Glucose_g": 1.7932839671124128,
+   "CuSO4_g": 0.07602710493542314,
+   "Time_min": 138.96651511966317,
+   "Photodeg_pct": 22.432530314297725,
+   "EEO_kWh_m3_order": 2433.6810620983456,
+   "SEC_total_Wh_mg": 681.2986933118669
+  },
+  {
+   "Glucose_g": 1.7610815329637595,
+   "CuSO4_g": 0.07285672192105677,
+   "Time_min": 138.08628421935708,
+   "Photodeg_pct": 22.57007982501635,
+   "EEO_kWh_m3_order": 2850.3445620340367,
+   "SEC_total_Wh_mg": 761.0123450943682
+  },
+  {
+   "Glucose_g": 1.908530481210062,
+   "CuSO4_g": 0.07810287436639879,
+   "Time_min": 144.852073143085,
+   "Photodeg_pct": 22.069535688656018,
+   "EEO_kWh_m3_order": 1515.0924412228135,
+   "SEC_total_Wh_mg": 508.61974721407216
+  },
+  {
+   "Glucose_g": 1.8653600873026062,
+   "CuSO4_g": 0.07660436566635999,
+   "Time_min": 142.21218610217744,
+   "Photodeg_pct": 22.270238785032895,
+   "EEO_kWh_m3_order": 1923.2693891734207,
+   "SEC_total_Wh_mg": 584.8545086183417
+  },
+  {
+   "Glucose_g": 1.9177522572449182,
+   "CuSO4_g": 0.07810287436639879,
+   "Time_min": 144.99270907888274,
+   "Photodeg_pct": 22.040136293948848,
+   "EEO_kWh_m3_order": 1443.4514917283218,
+   "SEC_total_Wh_mg": 494.4939907818966
+  },
+  {
+   "Glucose_g": 1.6481583344945607,
+   "CuSO4_g": 0.06902654867241437,
+   "Time_min": 139.31429496585733,
+   "Photodeg_pct": 22.825699962879582,
+   "EEO_kWh_m3_order": 3977.308556316564,
+   "SEC_total_Wh_mg": 985.2214529059877
+  },
+  {
+   "Glucose_g": 1.9526220510903,
+   "CuSO4_g": 0.07961175020048278,
+   "Time_min": 147.85044811621987,
+   "Photodeg_pct": 21.788711822928253,
+   "EEO_kWh_m3_order": 1064.9159345670355,
+   "SEC_total_Wh_mg": 424.76265338398144
+  },
+  {
+   "Glucose_g": 1.9788514877109828,
+   "CuSO4_g": 0.07974869119497083,
+   "Time_min": 148.9408945770274,
+   "Photodeg_pct": 21.653732482615126,
+   "EEO_kWh_m3_order": 848.8668914646371,
+   "SEC_total_Wh_mg": 383.4462345206701
+  },
+  {
+   "Glucose_g": 1.9033090397588948,
+   "CuSO4_g": 0.07788167525864474,
+   "Time_min": 144.35125322399065,
+   "Photodeg_pct": 22.101957411985264,
+   "EEO_kWh_m3_order": 1564.971115609344,
+   "SEC_total_Wh_mg": 517.6015930816851
+  },
+  {
+   "Glucose_g": 1.5478507176404452,
+   "CuSO4_g": 0.0666277115986263,
+   "Time_min": 138.96526261708908,
+   "Photodeg_pct": 22.90920487681223,
+   "EEO_kWh_m3_order": 4768.257305286524,
+   "SEC_total_Wh_mg": 1140.5856172922283
+  },
+  {
+   "Glucose_g": 1.9070366656408948,
+   "CuSO4_g": 0.07788167525864474,
+   "Time_min": 144.41697671557623,
+   "Photodeg_pct": 22.090242458836645,
+   "EEO_kWh_m3_order": 1536.5465543725168,
+   "SEC_total_Wh_mg": 512.0138946316998
+  },
+  {
+   "Glucose_g": 1.9448629870759933,
+   "CuSO4_g": 0.07766256296773008,
+   "Time_min": 145.70644734579218,
+   "Photodeg_pct": 21.948414028679164,
+   "EEO_kWh_m3_order": 1312.7890452160877,
+   "SEC_total_Wh_mg": 468.97472094190664
+  },
+  {
+   "Glucose_g": 1.8305632291332246,
+   "CuSO4_g": 0.07471437152336806,
+   "Time_min": 139.6393366453447,
+   "Photodeg_pct": 22.394911011357493,
+   "EEO_kWh_m3_order": 2271.3484345300194,
+   "SEC_total_Wh_mg": 648.9805706831156
+  },
+  {
+   "Glucose_g": 1.6088964038314715,
+   "CuSO4_g": 0.06763047705525489,
+   "Time_min": 138.41194194419822,
+   "Photodeg_pct": 22.8664788599521,
+   "EEO_kWh_m3_order": 4266.099359568972,
+   "SEC_total_Wh_mg": 1040.4421865887161
+  },
+  {
+   "Glucose_g": 1.6165852043384434,
+   "CuSO4_g": 0.06827413304234982,
+   "Time_min": 137.2504023228933,
+   "Photodeg_pct": 22.83526637799264,
+   "EEO_kWh_m3_order": 4091.977342819669,
+   "SEC_total_Wh_mg": 1004.2976169111637
+  },
+  {
+   "Glucose_g": 1.8658473036180951,
+   "CuSO4_g": 0.07660436566635999,
+   "Time_min": 141.5345094292645,
+   "Photodeg_pct": 22.269714996696056,
+   "EEO_kWh_m3_order": 1895.5620148588023,
+   "SEC_total_Wh_mg": 578.2363263582515
+  },
+  {
+   "Glucose_g": 1.6241252181276031,
+   "CuSO4_g": 0.06871564931296158,
+   "Time_min": 139.12935831020562,
+   "Photodeg_pct": 22.851353242646102,
+   "EEO_kWh_m3_order": 4146.262098675164,
+   "SEC_total_Wh_mg": 1018.3665301597819
+  },
+  {
+   "Glucose_g": 1.6885013446724075,
+   "CuSO4_g": 0.07097301557141364,
+   "Time_min": 138.9657495342276,
+   "Photodeg_pct": 22.74586593842221,
+   "EEO_kWh_m3_order": 3543.4195896262445,
+   "SEC_total_Wh_mg": 899.3872270163477
+  },
+  {
+   "Glucose_g": 1.6999065168026204,
+   "CuSO4_g": 0.07154186611641379,
+   "Time_min": 139.685174126708,
+   "Photodeg_pct": 22.726135662828447,
+   "EEO_kWh_m3_order": 3466.5199285008403,
+   "SEC_total_Wh_mg": 885.5515366854202
+  },
+  {
+   "Glucose_g": 1.572564528286831,
+   "CuSO4_g": 0.06604593043444693,
+   "Time_min": 139.74911736800118,
+   "Photodeg_pct": 22.906974553432075,
+   "EEO_kWh_m3_order": 4705.1996919945805,
+   "SEC_total_Wh_mg": 1129.1490903802305
+  },
+  {
+   "Glucose_g": 1.680722352021452,
+   "CuSO4_g": 0.07048266045438643,
+   "Time_min": 139.36458413983934,
+   "Photodeg_pct": 22.768349359992808,
+   "EEO_kWh_m3_order": 3655.7919778756172,
+   "SEC_total_Wh_mg": 922.1189350909847
+  },
+  {
+   "Glucose_g": 1.9526220510903,
+   "CuSO4_g": 0.07935790819640097,
+   "Time_min": 147.85044811621987,
+   "Photodeg_pct": 21.799375795292548,
+   "EEO_kWh_m3_order": 1093.0059443911377,
+   "SEC_total_Wh_mg": 430.17750736033236
+  },
+  {
+   "Glucose_g": 1.9873434778096066,
+   "CuSO4_g": 0.07991533436305895,
+   "Time_min": 149.62532899048762,
+   "Photodeg_pct": 21.58506095764558,
+   "EEO_kWh_m3_order": 771.7492591118778,
+   "SEC_total_Wh_mg": 369.3331210378908
+  },
+  {
+   "Glucose_g": 1.738158780292683,
+   "CuSO4_g": 0.071634653346678,
+   "Time_min": 138.87536528878027,
+   "Photodeg_pct": 22.650041611919058,
+   "EEO_kWh_m3_order": 3150.6897315819183,
+   "SEC_total_Wh_mg": 821.3240182342292
+  },
+  {
+   "Glucose_g": 1.9771257689835302,
+   "CuSO4_g": 0.07970550659519882,
+   "Time_min": 148.80978392758502,
+   "Photodeg_pct": 21.66722705837132,
+   "EEO_kWh_m3_order": 865.7770142994591,
+   "SEC_total_Wh_mg": 386.56943285277947
+  },
+  {
+   "Glucose_g": 1.7047665578828728,
+   "CuSO4_g": 0.07154186611641379,
+   "Time_min": 137.8222309204487,
+   "Photodeg_pct": 22.693066376269172,
+   "EEO_kWh_m3_order": 3324.2883486647556,
+   "SEC_total_Wh_mg": 854.2884738850024
+  },
+  {
+   "Glucose_g": 1.6346950869717796,
+   "CuSO4_g": 0.06810047523559261,
+   "Time_min": 139.0305448979295,
+   "Photodeg_pct": 22.844340181926484,
+   "EEO_kWh_m3_order": 4115.6677377332,
+   "SEC_total_Wh_mg": 1011.7666938777827
+  },
+  {
+   "Glucose_g": 1.615999429637702,
+   "CuSO4_g": 0.06871564931296158,
+   "Time_min": 139.1289353977027,
+   "Photodeg_pct": 22.857382795394724,
+   "EEO_kWh_m3_order": 4202.739077338067,
+   "SEC_total_Wh_mg": 1029.5887019527836
+  },
+  {
+   "Glucose_g": 1.6335316145757002,
+   "CuSO4_g": 0.0697225412180961,
+   "Time_min": 139.35615330851977,
+   "Photodeg_pct": 22.82892744855209,
+   "EEO_kWh_m3_order": 4040.5077172699976,
+   "SEC_total_Wh_mg": 998.2209780153347
+  },
+  {
+   "Glucose_g": 1.8105082629035494,
+   "CuSO4_g": 0.07555698569699831,
+   "Time_min": 139.03838739202558,
+   "Photodeg_pct": 22.416102571116316,
+   "EEO_kWh_m3_order": 2320.0617607834133,
+   "SEC_total_Wh_mg": 658.4712200662693
+  },
+  {
+   "Glucose_g": 1.6029740313772145,
+   "CuSO4_g": 0.06759693259328017,
+   "Time_min": 139.94744866857744,
+   "Photodeg_pct": 22.881911339310765,
+   "EEO_kWh_m3_order": 4418.991648097006,
+   "SEC_total_Wh_mg": 1073.3802873213874
+  },
+  {
+   "Glucose_g": 1.8105082629035494,
+   "CuSO4_g": 0.07538088648224656,
+   "Time_min": 138.3423023010503,
+   "Photodeg_pct": 22.407824428538532,
+   "EEO_kWh_m3_order": 2304.5523005065506,
+   "SEC_total_Wh_mg": 654.2050259591134
+  },
+  {
+   "Glucose_g": 1.6881953486443486,
+   "CuSO4_g": 0.07057459713069024,
+   "Time_min": 139.3960960162121,
+   "Photodeg_pct": 22.75702082689502,
+   "EEO_kWh_m3_order": 3599.6122197008835,
+   "SEC_total_Wh_mg": 911.0303509117888
+  },
+  {
+   "Glucose_g": 1.6838105564835149,
+   "CuSO4_g": 0.07167228953093195,
+   "Time_min": 138.87536528878027,
+   "Photodeg_pct": 22.73502435382089,
+   "EEO_kWh_m3_order": 3533.650714647356,
+   "SEC_total_Wh_mg": 897.6772354636767
+  },
+  {
+   "Glucose_g": 1.8273251518722398,
+   "CuSO4_g": 0.07598349661115562,
+   "Time_min": 139.6490533129504,
+   "Photodeg_pct": 22.373073470363703,
+   "EEO_kWh_m3_order": 2180.316997171444,
+   "SEC_total_Wh_mg": 631.7932379348754
+  },
+  {
+   "Glucose_g": 1.794637202999003,
+   "CuSO4_g": 0.07408470909909075,
+   "Time_min": 139.4599331708897,
+   "Photodeg_pct": 22.49672565385694,
+   "EEO_kWh_m3_order": 2573.927617354597,
+   "SEC_total_Wh_mg": 708.7701106521797
+  },
+  {
+   "Glucose_g": 1.8424431964928392,
+   "CuSO4_g": 0.07568608103049572,
+   "Time_min": 139.61630799129566,
+   "Photodeg_pct": 22.34210985003017,
+   "EEO_kWh_m3_order": 2089.597080705945,
+   "SEC_total_Wh_mg": 613.3731305458329
+  },
+  {
+   "Glucose_g": 1.9662364664023766,
+   "CuSO4_g": 0.07989783965908807,
+   "Time_min": 148.62601287081753,
+   "Photodeg_pct": 21.701761984987073,
+   "EEO_kWh_m3_order": 932.6534656052595,
+   "SEC_total_Wh_mg": 399.84721958671025
+  },
+  {
+   "Glucose_g": 1.5478507176404452,
+   "CuSO4_g": 0.06604593043444693,
+   "Time_min": 138.96526261708908,
+   "Photodeg_pct": 22.914619538767116,
+   "EEO_kWh_m3_order": 4795.881796380267,
+   "SEC_total_Wh_mg": 1145.8181680824894
+  },
+  {
+   "Glucose_g": 1.6976866935746346,
+   "CuSO4_g": 0.07151719655447097,
+   "Time_min": 139.685174126708,
+   "Photodeg_pct": 22.729577908657372,
+   "EEO_kWh_m3_order": 3484.537152087993,
+   "SEC_total_Wh_mg": 889.1250885305028
+  }
+ ]
+}

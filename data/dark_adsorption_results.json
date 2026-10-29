@@ -1,0 +1,284 @@
+{
+ "bbd_dark_adsorption": [
+  {
+   "Run": 1,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.02,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 12.7845884413,
+   "Photodeg_pct": 15.8634538153,
+   "Total_removal_pct": 26.6199649737
+  },
+  {
+   "Run": 2,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.02,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 18.0223285486,
+   "Photodeg_pct": 4.280155642,
+   "Total_removal_pct": 21.5311004785
+  },
+  {
+   "Run": 3,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.08,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 16.9877408056,
+   "Photodeg_pct": 5.6962025316,
+   "Total_removal_pct": 21.7162872154
+  },
+  {
+   "Run": 4,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 16.8126094571,
+   "Photodeg_pct": 15.3684210526,
+   "Total_removal_pct": 29.5971978984
+  },
+  {
+   "Run": 5,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.05,
+   "Time_min": 120,
+   "Dark_adsorption_pct": 18.7390542907,
+   "Photodeg_pct": 14.224137931,
+   "Total_removal_pct": 30.2977232925
+  },
+  {
+   "Run": 6,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 120,
+   "Dark_adsorption_pct": 7.3555166375,
+   "Photodeg_pct": 13.6105860113,
+   "Total_removal_pct": 19.9649737303
+  },
+  {
+   "Run": 7,
+   "Glucose_g": 0.5,
+   "CuSO4_g": 0.05,
+   "Time_min": 180,
+   "Dark_adsorption_pct": 18.9141856392,
+   "Photodeg_pct": 9.0712742981,
+   "Total_removal_pct": 26.2697022767
+  },
+  {
+   "Run": 8,
+   "Glucose_g": 2.0,
+   "CuSO4_g": 0.05,
+   "Time_min": 180,
+   "Dark_adsorption_pct": 12.6094570928,
+   "Photodeg_pct": 16.6332665331,
+   "Total_removal_pct": 27.1453590193
+  },
+  {
+   "Run": 9,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.02,
+   "Time_min": 120,
+   "Dark_adsorption_pct": 15.9489633174,
+   "Photodeg_pct": 14.4212523719,
+   "Total_removal_pct": 28.0701754386
+  },
+  {
+   "Run": 10,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.08,
+   "Time_min": 120,
+   "Dark_adsorption_pct": 12.2807017544,
+   "Photodeg_pct": 21.0909090909,
+   "Total_removal_pct": 30.7814992026
+  },
+  {
+   "Run": 11,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.02,
+   "Time_min": 180,
+   "Dark_adsorption_pct": 13.716108453,
+   "Photodeg_pct": 7.393715342,
+   "Total_removal_pct": 20.0956937799
+  },
+  {
+   "Run": 12,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.08,
+   "Time_min": 180,
+   "Dark_adsorption_pct": 12.1212121212,
+   "Photodeg_pct": 9.6188747731,
+   "Total_removal_pct": 20.5741626794
+  },
+  {
+   "Run": 13,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 18.5007974482,
+   "Photodeg_pct": 22.3091976517,
+   "Total_removal_pct": 36.68261563
+  },
+  {
+   "Run": 14,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 18.1818181818,
+   "Photodeg_pct": 22.2222222222,
+   "Total_removal_pct": 36.3636363636
+  },
+  {
+   "Run": 15,
+   "Glucose_g": 1.25,
+   "CuSO4_g": 0.05,
+   "Time_min": 150,
+   "Dark_adsorption_pct": 18.0223285486,
+   "Photodeg_pct": 21.9844357977,
+   "Total_removal_pct": 36.0446570973
+  }
+ ],
+ "validation_dark_adsorption_by_set": [
+  {
+   "Set": "V1",
+   "Dark_adsorption_pct_mean": 18.2282793867,
+   "Photodeg_pct_mean": 22.9167329768,
+   "Total_removal_pct_mean": 36.9676320273,
+   "Dark_adsorption_pct_sd": 0.1703577513,
+   "Photodeg_pct_sd": 0.0477432973,
+   "Total_removal_pct_sd": 0.1703577513
+  },
+  {
+   "Set": "V2",
+   "Dark_adsorption_pct_mean": 17.9954571266,
+   "Photodeg_pct_mean": 22.3741243433,
+   "Total_removal_pct_mean": 36.3429869392,
+   "Dark_adsorption_pct_sd": 0.2651969206,
+   "Photodeg_pct_sd": 0.9980664182,
+   "Total_removal_pct_sd": 0.8742080817
+  },
+  {
+   "Set": "V3",
+   "Dark_adsorption_pct_mean": 18.0579216354,
+   "Photodeg_pct_mean": 21.6221158519,
+   "Total_removal_pct_mean": 35.7751277683,
+   "Dark_adsorption_pct_sd": 0.1703577513,
+   "Photodeg_pct_sd": 0.3992709805,
+   "Total_removal_pct_sd": 0.4507242438
+  },
+  {
+   "Set": "V4",
+   "Dark_adsorption_pct_mean": 13.9125496877,
+   "Photodeg_pct_mean": 14.511799006,
+   "Total_removal_pct_mean": 26.405451448,
+   "Dark_adsorption_pct_sd": 0.0983560936,
+   "Photodeg_pct_sd": 0.0976070584,
+   "Total_removal_pct_sd": 0.0
+  },
+  {
+   "Set": "V5",
+   "Dark_adsorption_pct_mean": 18.9097103918,
+   "Photodeg_pct_mean": 14.7056313864,
+   "Total_removal_pct_mean": 30.8347529813,
+   "Dark_adsorption_pct_sd": 0.1703577513,
+   "Photodeg_pct_sd": 0.1791902455,
+   "Total_removal_pct_sd": 0.0
+  },
+  {
+   "Set": "V6",
+   "Dark_adsorption_pct_mean": 22.6007950028,
+   "Photodeg_pct_mean": 14.9667256952,
+   "Total_removal_pct_mean": 34.1851220897,
+   "Dark_adsorption_pct_sd": 0.1967121871,
+   "Photodeg_pct_sd": 0.1882121212,
+   "Total_removal_pct_sd": 0.0983560936
+  },
+  {
+   "Set": "V7",
+   "Dark_adsorption_pct_mean": 25.4968767746,
+   "Photodeg_pct_mean": 15.1668187645,
+   "Total_removal_pct_mean": 36.797274276,
+   "Dark_adsorption_pct_sd": 0.2602257635,
+   "Photodeg_pct_sd": 0.4298669599,
+   "Total_removal_pct_sd": 0.1703577513
+  }
+ ],
+ "validation_dark_adsorption_pooled_v1v3": {
+  "n": 9,
+  "Dark_adsorption_pct_mean": 18.093886049593028,
+  "Dark_adsorption_pct_sd": 0.2073269308748292,
+  "Photodeg_pct_mean": 22.304324390639387,
+  "Photodeg_pct_sd": 0.7787522894967073,
+  "Total_removal_pct_mean": 36.36191557826992,
+  "Total_removal_pct_sd": 0.7182913481359174
+ },
+ "kinetics_dark_adsorption_by_condition": [
+  {
+   "Condition": "K1",
+   "Dark_adsorption_pct_mean": 14.057334622,
+   "Photodeg_pct_mean": 18.8123403874,
+   "Total_removal_pct_mean": 30.2253502157,
+   "Dark_adsorption_pct_sd": 0.1868906761,
+   "Photodeg_pct_sd": 0.2135337129,
+   "Total_removal_pct_sd": 0.1312456976
+  },
+  {
+   "Condition": "K2",
+   "Dark_adsorption_pct_mean": 9.6496064226,
+   "Photodeg_pct_mean": 18.3671202749,
+   "Total_removal_pct_mean": 26.2445766715,
+   "Dark_adsorption_pct_sd": 0.1843885583,
+   "Photodeg_pct_sd": 0.1665980607,
+   "Total_removal_pct_sd": 0.0
+  },
+  {
+   "Condition": "K3",
+   "Dark_adsorption_pct_mean": 12.5998233558,
+   "Photodeg_pct_mean": 13.9941193382,
+   "Total_removal_pct_mean": 24.8309310577,
+   "Dark_adsorption_pct_sd": 0.1843885583,
+   "Photodeg_pct_sd": 0.3034020157,
+   "Total_removal_pct_sd": 0.2129135676
+  },
+  {
+   "Condition": "K4",
+   "Dark_adsorption_pct_mean": 14.8739489084,
+   "Photodeg_pct_mean": 18.9886156264,
+   "Total_removal_pct_mean": 31.0386791879,
+   "Dark_adsorption_pct_sd": 0.1064567838,
+   "Photodeg_pct_sd": 0.8569976613,
+   "Total_removal_pct_sd": 0.6648224016
+  },
+  {
+   "Condition": "K5",
+   "Dark_adsorption_pct_mean": 12.0466576808,
+   "Photodeg_pct_mean": 18.9375673956,
+   "Total_removal_pct_mean": 28.7030907825,
+   "Dark_adsorption_pct_sd": 0.1843885583,
+   "Photodeg_pct_sd": 0.513499966,
+   "Total_removal_pct_sd": 0.4258271351
+  },
+  {
+   "Condition": "K6",
+   "Dark_adsorption_pct_mean": 11.186177742,
+   "Photodeg_pct_mean": 22.560623183,
+   "Total_removal_pct_mean": 31.2230677462,
+   "Dark_adsorption_pct_sd": 0.1064567838,
+   "Photodeg_pct_sd": 0.3231448822,
+   "Total_removal_pct_sd": 0.3193703513
+  }
+ ],
+ "bbd_range": {
+  "Dark_adsorption_pct": [
+   7.355516637478096,
+   18.914185639229412
+  ],
+  "Photodeg_pct": [
+   4.28015564202335,
+   22.309197651663403
+  ],
+  "Total_removal_pct": [
+   19.964973730297714,
+   36.68261562998405
+  ]
+ },
+ "raw_data_source": "data_analyse_1.xlsx; V5-V7 A0 and K1 Ai replicate 1 corrected to it on 2026-09-24"
+}
